@@ -1,0 +1,39 @@
+.font-link {
+  font-family: "Playfair Display", serif;
+}
+
+h2 {
+  font-size: 30px;
+}
+/*Nav Bar */
+.nav-bar {
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 8px;
+  height: 100px;
+}
+
+/*Recipe Card */
+.recipe {
+  padding: 1rem 2rem;
+  background-image: url("/src/assets/imageedit_4_3828472460.png");
+  background-size: cover;
+}
+.recipe_body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem;
+}
+.recipe_body ul {
+  padding-left: 1rem;
+}
+.recipe_name {
+  font-size: 2rem;
+}
+.recipe_author {
+  font-size: 1.5rem;
+}
+.recipe_sub {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
