@@ -16,19 +16,23 @@ const useRecipes = (gameQuery: GameQuery) => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [error, setError] = useState("");
 
-  ({ data: null, isLoading: false, error: null });
-  // useEffect(() => {
-  //   axios
-  //     .get<Recipe[]>("http://localhost:3000/recipes", {
-  //       params: {
-  //         slug: gameQuery.searchText,
-  //         category: gameQuery.category?.name,
-  //       },
-  //     })
-  //     .then((res) => setRecipes(res.data));
-  // }, [gameQuery]);
+  useEffect(() => {
+    axios
+      .get<Recipe[]>(
+        "https://my-json-server.typicode.com/cabood2/recipe-book/recipes",
+        {
+          params: {
+            slug: gameQuery.searchText,
+            category: gameQuery.category?.name,
+          },
+        }
+      )
+      .then((res) => setRecipes(res.data));
+  }, [gameQuery]);
 
   return { recipes, error };
 };
 
 export default useRecipes;
+
+//http://localhost:3000/recipes
