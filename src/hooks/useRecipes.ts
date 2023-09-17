@@ -16,16 +16,17 @@ const useRecipes = (gameQuery: GameQuery) => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [error, setError] = useState("");
 
-  useEffect(() => {
-    axios
-      .get<Recipe[]>("http://localhost:3000/recipes", {
-        params: {
-          slug: gameQuery.searchText,
-          category: gameQuery.category?.name,
-        },
-      })
-      .then((res) => setRecipes(res.data));
-  }, [gameQuery]);
+  ({ data: null, isLoading: false, error: null });
+  // useEffect(() => {
+  //   axios
+  //     .get<Recipe[]>("http://localhost:3000/recipes", {
+  //       params: {
+  //         slug: gameQuery.searchText,
+  //         category: gameQuery.category?.name,
+  //       },
+  //     })
+  //     .then((res) => setRecipes(res.data));
+  // }, [gameQuery]);
 
   return { recipes, error };
 };
