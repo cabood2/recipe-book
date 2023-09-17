@@ -10,7 +10,7 @@ const useCategories = (gameQuery: GameQuery) => {
   useEffect(() => {
     axios
       .get<Category[]>(
-        "http://localhost:3000/categories",
+        "https://my-json-server.typicode.com/cabood2/recipe-book/categories",
         //  "https://my-json-server.typicode.com/cabood2/recipes1/categories",
         {
           params: {
