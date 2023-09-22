@@ -1,15 +1,12 @@
 import { Box, Card, Grid, HStack } from "@chakra-ui/react";
 import React from "react";
 import useRecipes, { Recipe } from "../hooks/useRecipes";
-import { GameQuery } from "../App";
+
 import { Category } from "./CategoryGrid";
+import useRecipeStore from "../state-management/store";
 
-interface Props {
-  gameQuery: GameQuery;
-}
-
-const RecipeCard = ({ gameQuery }: Props) => {
-  const { recipes, error } = useRecipes(gameQuery)
+const RecipeCard = () => {
+  const { recipes } = useRecipes();
 
   return (
     <>

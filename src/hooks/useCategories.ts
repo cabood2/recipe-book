@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
-import { GameQuery } from "../App";
+import useRecipeStore from "../state-management/store";
 
-const useCategories = (gameQuery: GameQuery) => {
+const useCategories = () => {
+  const { recipeQuery } = useRecipeStore();
   const [categories, setCategories] = useState<Category[]>([]);
   const [error, setError] = useState("");
 
@@ -14,7 +15,7 @@ const useCategories = (gameQuery: GameQuery) => {
         //  "https://my-json-server.typicode.com/cabood2/recipes1/categories",
         {
           params: {
-            slug: gameQuery.searchText,
+            slug: recipeQuery.searchText,
             // slug: gameQuery.searchText,
             //search: "pork",
             //slug: "chicken",
@@ -23,7 +24,7 @@ const useCategories = (gameQuery: GameQuery) => {
         }
       )
       .then((res) => setCategories(res.data));
-  }, [gameQuery]);
+  }, [recipeQuery]);
 
   return { categories, error };
 };

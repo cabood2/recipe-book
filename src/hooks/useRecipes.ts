@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
-import { GameQuery } from "../App";
+import useRecipeStore from "../state-management/store";
 
 export interface Recipe {
   name: string;
@@ -12,9 +12,11 @@ export interface Recipe {
   author: string;
 }
 
-const useRecipes = (gameQuery: GameQuery) => {
+const useRecipes = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [error, setError] = useState("");
+
+  const { recipeQuery } = useRecipeStore();
 
   useEffect(() => {
     axios
@@ -22,13 +24,13 @@ const useRecipes = (gameQuery: GameQuery) => {
         "https://my-json-server.typicode.com/cabood2/recipe-book/recipes",
         {
           params: {
-            slug: gameQuery.searchText,
-            category: gameQuery.category?.name,
+            slug: recipeQuery.searchText,
+            category: recipeQuery.category?.name,
           },
         }
       )
       .then((res) => setRecipes(res.data));
-  }, [gameQuery]);
+  }, [recipeQuery]);
 
   return { recipes, error };
 };

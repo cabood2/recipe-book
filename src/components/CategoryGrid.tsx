@@ -1,7 +1,8 @@
 import { GridItem, SimpleGrid } from "@chakra-ui/react";
 import CategoryCard from "./CategoryCard";
 import useCategories from "../hooks/useCategories";
-import { GameQuery } from "../App";
+
+import useRecipeStore from "../state-management/store";
 
 export interface Category {
   id: number;
@@ -9,28 +10,15 @@ export interface Category {
   slug: string;
 }
 
-interface Props {
-  onSelectCategory: (category: Category) => void;
-  selectedCategory: Category;
-  gameQuery: GameQuery;
-}
+const CategoryGrid = () => {
+  const setSelectCategory = useRecipeStore((s) => s.setCategory);
+  const { categories, error } = useCategories();
 
-const CategoryGrid = ({
-  selectedCategory,
-  onSelectCategory,
-  gameQuery,
-}: Props) => {
-  const { categories, error } = useCategories(gameQuery);
-
-  //const skeletons = [1, 2, 3, 4, 5, 6];
-  // if (error) return null;
-  // if (isLoading) return <Spinner></Spinner>;
-  
   return (
     <>
       <SimpleGrid minChildWidth="300px " padding="10px" spacing={6}>
         {categories.map((category) => (
-          <GridItem onClick={() => onSelectCategory(category)}>
+          <GridItem onClick={() => setSelectCategory(category)}>
             <CategoryCard category={category}></CategoryCard>
           </GridItem>
         ))}

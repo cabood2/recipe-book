@@ -1,20 +1,11 @@
-import React from 'react'
-import useRecipes from '../hooks/useRecipes'
-import { Category } from './CategoryGrid';
-import { GameQuery } from '../App';
+import React from "react";
+import useRecipes from "../hooks/useRecipes";
+import { Category } from "./CategoryGrid";
 
-interface Props{
-    category: Category; 
-    gameQuery: GameQuery;
-}
-const RecipeGrid = ({category, gameQuery}:Props) => {
+const RecipeGrid = () => {
+  const { recipes, error } = useRecipes();
 
-    const {recipes, error} = useRecipes(gameQuery);
+  return <div>RecipeGrid</div>;
+};
 
-    
-  return (
-    <div>RecipeGrid</div>
-  )
-}
-
-export default RecipeGrid
+export default RecipeGrid;
