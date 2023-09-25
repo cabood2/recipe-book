@@ -1,8 +1,12 @@
 import React from "react";
-import RecipeCard from "../components/RecipeCard";
+import RecipeGrid from "../components/RecipeGrid";
 
 const RecipePage = () => {
-  return <RecipeCard></RecipeCard>;
+  return (
+    <>
+      <RecipeGrid></RecipeGrid>
+    </>
+  );
 };
 
 export default RecipePage;
