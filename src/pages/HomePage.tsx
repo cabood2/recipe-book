@@ -1,7 +1,7 @@
 import { Grid, GridItem } from "@chakra-ui/react";
 import CategoryGrid from "../components/CategoryGrid";
 import NavBar from "../components/NavBar";
-import RecipeCard from "../components/RecipeCard";
+import RecipeGrid from "../components/RecipeGrid";
 
 const HomePage = () => {
   return (

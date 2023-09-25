@@ -3,6 +3,8 @@ import CategoryCard from "./CategoryCard";
 import useCategories from "../hooks/useCategories";
 
 import useRecipeStore from "../state-management/store";
+import { Link } from "react-router-dom";
+import { transform } from "framer-motion";
 
 export interface Category {
   id: number;
@@ -19,7 +21,9 @@ const CategoryGrid = () => {
       <SimpleGrid minChildWidth="300px " padding="10px" spacing={6}>
         {categories.map((category) => (
           <GridItem onClick={() => setSelectCategory(category)}>
-            <CategoryCard category={category}></CategoryCard>
+            <Link to={"/recipes/:category"}>
+              <CategoryCard category={category}></CategoryCard>
+            </Link>
           </GridItem>
         ))}
       </SimpleGrid>

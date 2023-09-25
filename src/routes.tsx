@@ -3,6 +3,7 @@ import Layout from "./pages/Layout";
 import HomePage from "./pages/HomePage";
 import RecipePage from "./pages/RecipePage";
 import ErrorPage from "./pages/ErrorPage";
+import RecipeDetails from "./pages/RecipeDetails";
 
 const router = createBrowserRouter([
   {
@@ -11,7 +12,8 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
     children: [
       { index: true, element: <HomePage /> },
-      { path: "recipes", element: <RecipePage /> },
+      { path: "recipes/:category", element: <RecipePage /> },
+      { path: "recipe/:id", element: <RecipeDetails /> },
     ],
   },
 ]);

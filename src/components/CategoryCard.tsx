@@ -15,6 +15,7 @@ import pork from "../assets/pork.jpg";
 import sides from "../assets/sides.jpg";
 import soup from "../assets/soup.jpg";
 import turkey from "../assets/turkey.jpg";
+import { easeIn } from "framer-motion";
 
 interface Props {
   category: Category;
@@ -38,7 +39,11 @@ const CategoryCard = ({ category }: Props) => {
   };
 
   return (
-    <Card overflow="hidden" className="font-link">
+    <Card
+      _hover={{ transform: "scale(1.03)", transition: "transform .15s easeIn" }}
+      overflow="hidden"
+      className="font-link"
+    >
       <Image
         height={250}
         src={imageMap[category.slug]}
