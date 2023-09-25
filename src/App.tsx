@@ -1,10 +1,6 @@
-import { Grid, GridItem, Show } from "@chakra-ui/react";
+import { Grid, GridItem } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
-import { Category } from "./components/CategoryGrid";
-import { useState } from "react";
-import FilterList from "./components/FilterList";
 import CategoryGrid from "./components/CategoryGrid";
-import { Recipe } from "./hooks/useRecipes";
 import RecipeCard from "./components/RecipeCard";
 
 function App() {

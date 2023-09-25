@@ -1,19 +1,18 @@
 import { Input, InputGroup, InputLeftElement } from "@chakra-ui/react";
-import React from "react";
 import { useRef } from "react";
 import { BsSearch } from "react-icons/bs";
+import useRecipeStore from "../state-management/store";
 
-interface Props {
-  onSearch: (searchText: string) => void;
-}
-const SearchInput = ({ onSearch }: Props) => {
+const SearchInput = () => {
+  const setOnSearch = useRecipeStore((s) => s.setSearchText);
+
   const ref = useRef<HTMLInputElement>(null);
   return (
     <form
       style={{ width: "90%" }}
       onSubmit={(event) => {
         event.preventDefault();
-        if (ref.current) onSearch(ref.current.value);
+        if (ref.current) setOnSearch(ref.current.value);
       }}
     >
       <InputGroup marginRight="20px">
