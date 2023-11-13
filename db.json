@@ -237,6 +237,29 @@
         "½ stick Margarine, melted"
       ],
       "directions": "Preheat oven to 350º.  Mix and put all non-topping ingredients into greased 13 by 9 inch pan.  Combine the crackers and butter.  Pour on top of mixture.  Bake for 35-45 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Amish Macaroni Salad",
+      "slug": "amish_macaroni_salad",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "3 cups Elbow Macaroni, uncooked",
+        "4 ½ Hard-cooked Eggs, chopped",
+        "1 ½ Small Onions, chopped",
+        "4 ½ stalks Celery, chopped",
+        "1 ½ Small Red Bell Peppers, seeded and chopped",
+        "3 tbsp. Dill Pickle Relish",
+        "1 ½ cups Mayo",
+        "1 ½ cups Miracle Whip",
+        "¼ cup and 1 tsp. Prepared Yellow Mustard",
+        "1/3 cup Sugar",
+        "1 tbsp. and ½ tsp. White Vinegar",
+        "¼ tsp. Salt",
+        "1 tsp. Celery Seed"
+      ],
+      "directions": "Bring a pot of lightly salted water to a boil.  Add macaroni, and cook for 8-10 minutes, until tender.  Drain, and set aside to cool.  In a large bowl, stir together the eggs, onion, celery, red pepper, and relish.  In a small bowl, stir together the mayo, miracle whip, mustard, sugar, vinegar, salt, and celery seed.  Pour over the vegetables, and stir in macaroni until well blended.  Cover and chill for at least 1 hour before serving."
     }
   ]
 }
