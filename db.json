@@ -199,7 +199,7 @@
       "id": 1,
       "name": "Panera Kitchen Sink Cookies",
       "slug": "panera_kitchen_sink_cookies",
-      "category": "Cookies",
+      "category": "Desserts",
       "author": "Cassie Abood",
       "ingredients": [
         "1 cup (2 sticks) butter",
@@ -216,6 +216,27 @@
         "flaky sea salt"
       ],
       "directions": "Preheat oven to 350ºF. In a large mixing bowl, melt the butter and coconut oil with the brown sugar in the microwave. Stir and let mixture sit for 5 minutes. Whisk in the egg, the egg yolk, and the vanilla. Add the flour, baking soda water, and salt. Mix just until dough forms. Fold in the chocolate and pretzel crumbs. Toss the caramel pieces in a little bit of flour to prevent clumping, and mix them into the dough as well. Scoop ¼ cup of dough and roll it into a ball. Try to tuck the caramel pieces inside the dough or keep them on top. Place 6 balls of dough on each baking pan, leaving plenty of room for spreading. Sprinkle generously with flaked sea salt. Bake for 9 minutes, and then let cool completely on the baking pan."
+    },
+    {
+      "id": 1,
+      "name": "Broccoli Casserole",
+      "slug": "broccoli_casserole",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 Large Bunch Broccoli, 10 minutes cooked and drained",
+        "2 10 ounce cans Cream of Mushroom Soup",
+        "½ cup Mayo",
+        "2 Eggs, slightly beaten",
+        "1 cup Grated Cheddar Cheese",
+
+        "1 tsp. Minced Onion",
+        "4 ounces Mushrooms",
+        "Topping:",
+        "3 ounces Ritz Crackers, about 32 crackers, crushed",
+        "½ stick Margarine, melted"
+      ],
+      "directions": "Preheat oven to 350º.  Mix and put all non-topping ingredients into greased 13 by 9 inch pan.  Combine the crackers and butter.  Pour on top of mixture.  Bake for 35-45 minutes."
     }
   ]
 }
