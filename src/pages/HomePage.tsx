@@ -7,7 +7,7 @@ import WelcomeBox from "../components/WelcomeBox";
 const HomePage = () => {
   return (
     <>
-      <WelcomeBox />
+      {/* <WelcomeBox /> */}
       <Grid gridTemplateAreas={`"main" "footer"`}>
         <GridItem area="main" paddingX={3}>
           <CategoryGrid />

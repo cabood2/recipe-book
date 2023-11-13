@@ -16,7 +16,6 @@ import { Category } from "./CategoryGrid";
 import useRecipeStore from "../state-management/store";
 import RecipeCard from "./RecipeCard";
 import RecipeCover from "./RecipeCover";
-import ErrorPage from "../pages/ErrorPage";
 
 const RecipeGrid = () => {
   const { recipes } = useRecipes();
