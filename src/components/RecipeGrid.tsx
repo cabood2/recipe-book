@@ -22,7 +22,7 @@ const RecipeGrid = () => {
 
   const [isLargerThan1000] = useMediaQuery("(min-width: 1000px)");
 
-  if (recipes.length === 0) throw Error;
+  // if (recipes.length === 0) throw Error;
 
   return (
     <>
