@@ -5,11 +5,32 @@
 h2 {
   font-size: 30px;
 }
+
 /*Nav Bar */
 .nav-bar {
   border-bottom: 1px solid lightgray;
   margin-bottom: 8px;
   height: 100px;
+}
+
+/*Welcome Box*/
+.welcomeBox {
+  background: "#a67b5b";
+  padding: "10px, 20px";
+  margin: "20px";
+  border-radius: "20px";
+  min-height: "200px";
+  font-size: "20px";
+  color: "#fff";
+}
+
+.welcomeBox_heading {
+  margin-bottom: "10px";
+}
+
+.button-large {
+  width: 200px;
+  min-width: 100px;
 }
 
 /*Recipe Card */
