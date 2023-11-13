@@ -7,6 +7,7 @@ const useCategories = () => {
   const { recipeQuery } = useRecipeStore();
   const [categories, setCategories] = useState<Category[]>([]);
   const [error, setError] = useState("");
+  const [ isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     axios
@@ -26,7 +27,7 @@ const useCategories = () => {
       .then((res) => setCategories(res.data));
   }, [recipeQuery]);
 
-  return { categories, error };
+  return { categories, error, isLoading };
 };
 
 export default useCategories;

@@ -16,11 +16,14 @@ import { Category } from "./CategoryGrid";
 import useRecipeStore from "../state-management/store";
 import RecipeCard from "./RecipeCard";
 import RecipeCover from "./RecipeCover";
+import ErrorPage from "../pages/ErrorPage";
 
 const RecipeGrid = () => {
   const { recipes } = useRecipes();
 
   const [isLargerThan1000] = useMediaQuery("(min-width: 1000px)");
+
+  if (recipes.length === 0) throw Error;
 
   return (
     <>

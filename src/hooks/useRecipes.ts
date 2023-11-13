@@ -24,7 +24,7 @@ const useRecipes = () => {
         "https://my-json-server.typicode.com/cabood2/recipe-book/recipes",
         {
           params: {
-            slug: recipeQuery.searchText,
+            name: recipeQuery.searchText,
             category: recipeQuery.category?.name,
           },
         }

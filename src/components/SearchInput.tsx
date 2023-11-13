@@ -5,6 +5,7 @@ import useRecipeStore from "../state-management/store";
 
 const SearchInput = () => {
   const setOnSearch = useRecipeStore((s) => s.setSearchText);
+  
 
   const ref = useRef<HTMLInputElement>(null);
   return (
@@ -25,6 +26,7 @@ const SearchInput = () => {
           variant="filled"
           size="lg"
           focusBorderColor="coral"
+  
         ></Input>
       </InputGroup>
     </form>

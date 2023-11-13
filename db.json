@@ -148,6 +148,74 @@
         "Lemon and Lime Slices, optional"
       ],
       "directions": "In a blender, combine concentrates and pineapple; cover and blend until smooth. Pour into a gallon- size container; stir in water. Store in the refrigerator. To serve, pour the mixture into a punch bowl; add cherry soda and ginger ale. Garnish with lemon and lime slices if desired. Yield: about 6 quarts"
+    },
+    {
+      "id": 1,
+      "name": "Indian Casserole",
+      "slug": "indian_casserole",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1½ lb yellow squash, thinly sliced",
+        "1½ lb zucchini, thinly sliced",
+        "¼ cup butter, divided",
+        "2 cups diced sweet onion",
+        "2 garlic cloves, minced",
+        "3 cups corn kernels",
+        "1½ cups shredded white cheddar cheese",
+        "½ cup sour cream",
+        "½ cup mayonnaise",
+        "2 eggs, lightly beaten",
+        "2 tsp pepper",
+        "1 tsp salt",
+        "1½ cups fresh breadcrumbs, divided",
+        "1 cup grated parmesan cheese, divided"
+      ],
+      "directions": "Preheat oven to 350ºF. Lightly spray a 9x13x2-inch pan with cooking spray. Melt 2 Tbsp of butter in large skillet over medium-high heat. Add zucchini, squash and onion. Sauté for 10 minutes, or until tender. Add garlic and cook and additional 2 minutes. Remove from heat. Stir together cooked zucchini, squash, onion, corn, white cheddar cheese, sour cream, mayonnaise, eggs, salt and pepper. Stir in ½ cup of breadcrumbs and ½ cup of parmesan cheese. Spread mixture into prepared pan. Melt remaining 2 Tbsp butter. Combine melted butter, remaining breadcrumbs and parmesan cheese. Sprinkle over casserole. Bake uncovered for 45 to 50 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Swenson Burger Sauces",
+      "slug": "swenson_burger_sauces",
+      "category": "Condiments",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "Sauce 1:",
+        " 1/4 cup mayonnaise or Miracle Whip",
+        " 2 tablespoons dill pickle relish",
+        "1 teaspoon dill pickle juice",
+        "2 tablespoons white onion, finely chopped",
+        "1 teaspoon salt",
+        "1 tablespoon white sugar (omit if using Miracle Whip)",
+
+        "Sauce 2",
+        "½ - ¾ cup ketchup",
+        "¼ cup A1 steak sauce",
+        "2 tablespoons sweet relish"
+      ],
+      "directions": "Combine all ingredients. Give at 1-2 hours to sit before eating."
+    },
+    {
+      "id": 1,
+      "name": "Panera Kitchen Sink Cookies",
+      "slug": "panera_kitchen_sink_cookies",
+      "category": "Cookies",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 cup (2 sticks) butter",
+        "¼ cup coconut oil",
+        "2 cups brown sugar",
+        "1 egg + 1 egg yolk",
+        "1 tbsp vanilla",
+        "1 tsp baking soda dissolved in 1 tbsp water",
+        "2 ½ cups all purpose flour",
+        "½ tsp salt",
+        "8 ounces semi-sweet or milk chocolate, chopped",
+        "5 ounces (2 bags) Werther's soft caramels, each cut in half",
+        "1 cup pretzels, finely crushed",
+        "flaky sea salt"
+      ],
+      "directions": "Preheat oven to 350ºF. In a large mixing bowl, melt the butter and coconut oil with the brown sugar in the microwave. Stir and let mixture sit for 5 minutes. Whisk in the egg, the egg yolk, and the vanilla. Add the flour, baking soda water, and salt. Mix just until dough forms. Fold in the chocolate and pretzel crumbs. Toss the caramel pieces in a little bit of flour to prevent clumping, and mix them into the dough as well. Scoop ¼ cup of dough and roll it into a ball. Try to tuck the caramel pieces inside the dough or keep them on top. Place 6 balls of dough on each baking pan, leaving plenty of room for spreading. Sprinkle generously with flaked sea salt. Bake for 9 minutes, and then let cool completely on the baking pan."
     }
   ]
 }

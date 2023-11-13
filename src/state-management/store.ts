@@ -5,7 +5,7 @@ import { Category } from "../components/CategoryGrid";
 interface RecipeQuery {
   category?: Category;
   recipe?: Recipe;
-  searchText?: string;
+  searchText?: string | null;
 }
 interface RecipeQueryStore {
   recipeQuery: RecipeQuery;
