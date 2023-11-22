@@ -2,14 +2,16 @@ import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
 import useRecipeStore from "../state-management/store";
+import db from "../data/db.json";
 
 export interface Recipe {
-  name: string;
   id: number;
-  category: Category;
+  name: string;
+  slug: string;
+  category: string; //Category;
+  author: string;
   ingredients: string[];
   directions: string;
-  author: string;
 }
 
 const useRecipes = () => {
@@ -18,19 +20,28 @@ const useRecipes = () => {
 
   const { recipeQuery } = useRecipeStore();
 
+  // useEffect(() => {
+  //   axios
+  //     .get<Recipe[]>(
+  //       "../data/db.json",
+  //       // "https://my-json-server.typicode.com/cabood2/recipe-book/recipes",
+  //       {
+  //         params: {
+  //           name: recipeQuery.searchText,
+  //           category: recipeQuery.category?.name,
+  //         },
+  //       }
+  //     )
+  //     .then((res) => setRecipes(res.data));
+  // }, [recipeQuery]);
+
   useEffect(() => {
-    axios
-      .get<Recipe[]>(
-        "https://my-json-server.typicode.com/cabood2/recipe-book/recipes",
-        {
-          params: {
-            name: recipeQuery.searchText,
-            category: recipeQuery.category?.name,
-          },
-        }
+    setRecipes(
+      db.recipes.filter(
+        (recipe) => recipe.category === recipeQuery.category?.name
       )
-      .then((res) => setRecipes(res.data));
-  }, [recipeQuery]);
+    );
+  });
 
   return { recipes, error };
 };

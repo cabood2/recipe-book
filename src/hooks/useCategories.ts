@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
 import useRecipeStore from "../state-management/store";
+import db from "../data/categories.json";
 
 const useCategories = () => {
   const { recipeQuery } = useRecipeStore();
@@ -9,19 +10,22 @@ const useCategories = () => {
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
+  // useEffect(() => {
+  //   axios
+  //     .get<Category[]>(
+  //       "../data/categories.json",
+  //       //  "https://my-json-server.typicode.com/cabood2/recipe-book/categories",
+  //       {
+  //         params: {
+  //           slug: recipeQuery.searchText,
+  //         },
+  //       }
+  //     )
+  //     .then((res) => setCategories(res.data));
+  // }, [recipeQuery]);
   useEffect(() => {
-    axios
-      .get<Category[]>(
-        "https://my-json-server.typicode.com/cabood2/recipe-book/categories",
-        {
-          params: {
-            slug: recipeQuery.searchText,
-          },
-          maxContentLength: 1000000,
-        }
-      )
-      .then((res) => setCategories(res.data));
-  }, [recipeQuery]);
+    setCategories(db.categories);
+  });
 
   return { categories, error, isLoading };
 };
