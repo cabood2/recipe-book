@@ -17,7 +17,7 @@ const useCategories = () => {
           params: {
             slug: recipeQuery.searchText,
           },
-          maxContentLength: 100,
+          maxContentLength: 1000000,
         }
       )
       .then((res) => setCategories(res.data));
