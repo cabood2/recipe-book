@@ -4,6 +4,7 @@ import HomePage from "./pages/HomePage";
 import RecipePage from "./pages/RecipePage";
 import ErrorPage from "./pages/ErrorPage";
 import RecipeDetails from "./pages/RecipeDetails";
+import DessertPage from "./pages/DessertPage";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,8 @@ const router = createBrowserRouter([
       { path: "recipe/:id", element: <RecipeDetails /> },
     ],
   },
+  { path: "/dessertCategories", element: <DessertPage /> },
+  { path: "/:specificDessert", element: <RecipePage /> },
 ]);
 
 export default router;

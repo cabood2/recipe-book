@@ -15,6 +15,8 @@ import pork from "../assets/pork.webp";
 import sides from "../assets/sides.webp";
 import soup from "../assets/soup.jpg";
 import turkey from "../assets/turkey.jpg";
+import cookies from "../assets/cookies.jpg";
+import brownies from "../assets/brownies.jpg";
 import { easeIn } from "framer-motion";
 
 interface Props {
@@ -36,6 +38,8 @@ const CategoryCard = ({ category }: Props) => {
     sides: sides,
     soups_and_stews: soup,
     turkey: turkey,
+    cookies: cookies,
+    brownies: brownies,
   };
 
   return (

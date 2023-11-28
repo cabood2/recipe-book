@@ -71,13 +71,17 @@
       "slug": "turkey"
     }
   ],
-
+  "dessertCategories": [
+    { "id": 1, "name": "Cookies", "slug": "cookies" },
+    { "id": 2, "name": "Brownies", "slug": "brownies" }
+  ],
   "recipes": [
     {
       "id": 10000,
       "name": "Chicken Parmesan",
       "slug": "chicken parm",
       "category": "Chicken",
+      "subCat": "",
       "author": "Niki Marotta",
       "ingredients": ["turkey", "chicken", "meat", "pepperonni"],
       "directions": "Preheat oven"
@@ -284,6 +288,7 @@
       "name": "Snickerdoodles",
       "slug": "snickerdoodles",
       "category": "Desserts",
+      "subCat": "Cookies",
       "author": "Cassie Abood",
       "ingredients": [
         "1 cup salted butter",
