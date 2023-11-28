@@ -9,6 +9,7 @@ export interface Recipe {
   name: string;
   slug: string;
   category: string; //Category;
+  subCat?: string;
   author: string;
   ingredients: string[];
   directions: string;
@@ -38,7 +39,9 @@ const useRecipes = () => {
   useEffect(() => {
     setRecipes(
       db.recipes.filter(
-        (recipe) => recipe.category === recipeQuery.category?.name
+        (recipe) =>
+          recipe.category === recipeQuery.category?.name ||
+          recipe.subCat === recipeQuery.category?.name
       )
     );
   });
