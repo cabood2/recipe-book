@@ -15,7 +15,7 @@ const RecipeCard = ({ recipe }: Props) => {
       <Card
         className="recipe font-link"
         borderRadius="20px"
-        height="400px"
+        minHeight="400px"
         overflow="hidden"
         _hover={{
           transform: "scale(1.03)",

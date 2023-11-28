@@ -4,6 +4,7 @@ import {
   Grid,
   GridItem,
   HStack,
+  Hide,
   SimpleGrid,
   Spinner,
   Text,
@@ -28,7 +29,13 @@ const RecipeGrid = () => {
     <>
       {isLargerThan1000 ? (
         <>
-          <SimpleGrid gridGap={6} minChildWidth="650px" padding={10}>
+          <SimpleGrid
+            gridGap={6}
+            minChildWidth="650px"
+            maxHeight="400px"
+            overflow="hidden"
+            padding={10}
+          >
             {recipes.map((recipe) => (
               <GridItem>
                 <RecipeCard recipe={recipe}></RecipeCard>
