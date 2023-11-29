@@ -38,11 +38,13 @@ const useRecipes = () => {
 
   useEffect(() => {
     setRecipes(
-      db.recipes.filter(
-        (recipe) =>
-          recipe.category === recipeQuery.category?.name ||
-          recipe.subCat === recipeQuery.category?.name
-      )
+      recipeQuery.category?.name === "Desserts"
+        ? db.recipes.filter(
+            (recipe) => recipe.subCat === recipeQuery.subCat?.name
+          )
+        : db.recipes.filter(
+            (recipe) => recipe.category === recipeQuery.category?.name
+          )
     );
   });
 

@@ -17,6 +17,12 @@ import soup from "../assets/soup.jpg";
 import turkey from "../assets/turkey.jpg";
 import cookies from "../assets/cookies.jpg";
 import brownies from "../assets/brownies.jpg";
+import cake from "../assets/cake.jpg";
+import candies from "../assets/candies.jpg";
+import frosting from "../assets/frosting.jpg";
+import other from "../assets/other.jpg";
+import pies from "../assets/pies.jpg";
+import trifle from "../assets/trifle.jpg";
 import { easeIn } from "framer-motion";
 
 interface Props {
@@ -40,6 +46,12 @@ const CategoryCard = ({ category }: Props) => {
     turkey: turkey,
     cookies: cookies,
     brownies: brownies,
+    cakes: cake,
+    candies: candies,
+    frosting: frosting,
+    other_desserts: other,
+    pies: pies,
+    trifles: trifle,
   };
 
   return (

@@ -73,7 +73,13 @@
   ],
   "dessertCategories": [
     { "id": 1, "name": "Cookies", "slug": "cookies" },
-    { "id": 2, "name": "Brownies", "slug": "brownies" }
+    { "id": 2, "name": "Brownies", "slug": "brownies" },
+    { "id": 1, "name": "Cakes", "slug": "cakes" },
+    { "id": 1, "name": "Candies", "slug": "candies" },
+    { "id": 1, "name": "Frosting", "slug": "frosting" },
+    { "id": 1, "name": "Other Desserts", "slug": "other_desserts" },
+    { "id": 1, "name": "Pies", "slug": "pies" },
+    { "id": 1, "name": "Trifles", "slug": "trifles" }
   ],
   "recipes": [
     {
@@ -204,6 +210,7 @@
       "name": "Panera Kitchen Sink Cookies",
       "slug": "panera_kitchen_sink_cookies",
       "category": "Desserts",
+      "subCat": "Cookies",
       "author": "Cassie Abood",
       "ingredients": [
         "1 cup (2 sticks) butter",

@@ -34,6 +34,6 @@ const DessertCategoryGrid = () => {
 };
 
 export default DessertCategoryGrid;
-function useDessertCategories(): { categories: any; error: any } {
-  throw new Error("Function not implemented.");
-}
+// function useDessertCategories(): { categories: any; error: any } {
+//   throw new Error("Function not implemented.");
+// }
