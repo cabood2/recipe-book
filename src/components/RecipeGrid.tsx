@@ -32,12 +32,11 @@ const RecipeGrid = () => {
           <SimpleGrid
             gridGap={6}
             minChildWidth="650px"
-            maxHeight="400px"
             overflow="hidden"
             padding={10}
           >
             {recipes.map((recipe) => (
-              <GridItem>
+              <GridItem height="400px" overflow="hidden" borderRadius="20px">
                 <RecipeCard recipe={recipe}></RecipeCard>
               </GridItem>
             ))}

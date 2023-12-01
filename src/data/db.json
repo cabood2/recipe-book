@@ -113,7 +113,7 @@
       "directions": "Preheat oven to 400° and place a rack on the lower half of the oven. Place a half slice of ham, cheeses, and turkey on the bottom of each roll. Stir together butter, sugar, onion flakes, poppy seeds, and honey mustard. Brush over the top of each sandwich. Bake for 15 min. or until tops are golden brown and fillings are hot. Personal Note: Use parchment paper. Don’t need onion flakes and poppy seeds."
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Bean Dip",
       "slug": "bean_dip",
       "category": "Appetizers",
@@ -158,6 +158,159 @@
         "Lemon and Lime Slices, optional"
       ],
       "directions": "In a blender, combine concentrates and pineapple; cover and blend until smooth. Pour into a gallon- size container; stir in water. Store in the refrigerator. To serve, pour the mixture into a punch bowl; add cherry soda and ginger ale. Garnish with lemon and lime slices if desired. Yield: about 6 quarts"
+    },
+    {
+      "id": 1,
+      "name": "Fresh Fruit Dip",
+      "slug": "fresh_fruit_dip",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Vegetable Pizza",
+      "slug": "vegetable_pizza",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Simmered Smoke Links",
+      "slug": "simmered_smoke_links",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "slug": "lasagna",
+      "category": "Beef",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Flank Steak",
+      "slug": "flank_steak",
+      "category": "Beef",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Dad's Meatballs",
+      "slug": "dad's_meatballs",
+      "category": "Beef",
+      "author": "Anthony Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Macaroni Bake",
+      "slug": "macaroni_bake",
+      "category": "Beef",
+      "author": "Anne Phillips",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Herbed Pot Roast",
+      "slug": "herbed_pot_roast",
+      "category": "Beef",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Meatloaf",
+      "slug": "meatloaf",
+      "category": "Beef",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Sloppy Joes",
+      "slug": "sloppy_joes",
+      "category": "Beef",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Banana Nut Bread",
+      "slug": "banana_nut_bread",
+      "category": "Breads",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Potica Nut Roll",
+      "slug": "potica_nut_roll",
+      "category": "Breads",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Pumpkin Bread",
+      "slug": "pumpkin_bread",
+      "category": "Breads",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Zucchini Bread",
+      "slug": "zucchini_bread",
+      "category": "Breads",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Breakfast Strata",
+      "slug": "breakfast_strata",
+      "category": "Breakfast",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "French Toast",
+      "slug": "french_toast",
+      "category": "Breakfast",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Ham & Egg Brunch Braid",
+      "slug": "ham_and_egg_brunch_braid",
+      "category": "Breakfast",
+      "author": "Niki Marotta",
+      "ingredients": [""],
+      "directions": ""
     },
     {
       "id": 1,
