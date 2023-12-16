@@ -170,6 +170,22 @@
     },
     {
       "id": 1,
+      "name": "Sweet Sausage Rolls",
+      "slug": "sweet_sausage_rolls",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 tube Crescent Rolls",
+        "24 Mini Smoked Sausage Links",
+        "½ cup Butter, melted",
+        "½ cup Chopped Nuts",
+        "3 tbsp. Honey",
+        "3 tbsp. Brown Sugar"
+      ],
+      "directions": "Preheat oven to 400°  Unroll crescent dough and separate into triangles.  Cut each length wise into 3 triangles.  Roll a sausage in each and set aside.  Combine remaining ingredients in 11 by 7 inch pan.  Arrange sausage rolls, seam side down, in butter mixture.  Bake uncovered for 15-20 min."
+    },
+    {
+      "id": 1,
       "name": "Vegetable Pizza",
       "slug": "vegetable_pizza",
       "category": "Appetizers",
