@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Post 1",
       "comment": "lorem",
-      "recipe_slug": "lasagna"
+      "recipe": "lasagna"
     },
     {
       "id": 1,
       "title": "Post 1",
       "comment": "lorem",
-      "recipe_slug": "lasagna"
+      "recipe": "lasagna"
     },
     {
       "id": 1,
       "title": "Post 1",
       "comment": "lorem",
-      "recipe_slug": "lasagna"
+      "recipe": "lasagna"
     }
   ]
 }
