@@ -3,6 +3,7 @@ import { Category } from "../components/CategoryGrid";
 import axios from "axios";
 import useRecipeStore from "../state-management/store";
 import db from "../data/db.json";
+import RecipeDetails from "../pages/RecipeDetails";
 
 export interface Recipe {
   id: number;
@@ -48,6 +49,15 @@ const useRecipes = () => {
     );
   });
 
+  // useEffect(() => {
+  //   if (recipeQuery.searchText !== null)
+  //     setRecipes(
+  //       db.recipes.filter((recipe) => recipeQuery.searchText == recipe.slug)
+  //     );
+  //   // {
+  //   //   recipeQuery.searchText == "";
+  //   // }
+  // });
   return { recipes, error };
 };
 

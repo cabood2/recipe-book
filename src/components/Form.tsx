@@ -9,13 +9,13 @@ import { FieldValues, useForm } from "react-hook-form";
 import CommentList from "./CommentList";
 import { useState } from "react";
 
-export interface Comment {
+export interface Remark {
   title: string;
   comment: string;
 }
 
-export interface Props {
-  commentLog: Comment[];
+interface Props {
+  commentLog: Remark[];
 }
 
 const Form = ({ commentLog }: Props) => {
@@ -49,7 +49,7 @@ const Form = ({ commentLog }: Props) => {
           Post
         </Button>
       </FormControl>
-      <CommentList />
+      <CommentList commentLog={commentLog} />
     </>
   );
 };

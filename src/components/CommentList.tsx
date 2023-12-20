@@ -7,21 +7,24 @@ import {
   Tr,
 } from "@chakra-ui/react";
 import React from "react";
+import { Remark } from "./Form";
 
-// interface Props{
-//     commentLog: FormData[]
-// }
+interface Props {
+  commentLog: Remark[];
+}
 
-const CommentList = () => {
+const CommentList = ({ commentLog }: Props) => {
   return (
     <TableContainer>
       <Table>
-        <TableCaption>This is my table</TableCaption>
+        <TableCaption>Comments</TableCaption>
         <Tbody>
-          <Tr>
-            <Td>1</Td>
-            <Td>2</Td>
-          </Tr>
+          {commentLog.map((comment) => (
+            <Tr>
+              <Td>{comment.title}</Td>
+              <Td>{comment.comment}</Td>
+            </Tr>
+          ))}
         </Tbody>
       </Table>
     </TableContainer>
