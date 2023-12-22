@@ -461,6 +461,34 @@
     },
     {
       "id": 1,
+      "name": "Kielbasa & Veggie Sheet Pan",
+      "slug": "kielbasa_&_veggie_sheet_pan",
+      "category": "Pork",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "Kielbasa",
+        "Onion",
+        "Bell Pepper",
+        "Fresh Mushrooms",
+        "Asparagus",
+        "Broccoli",
+        "Carrots",
+        "Squash",
+        "Zucchini",
+        "Grape Tomatoes",
+        "Garlic Powder",
+        "Onion Powder",
+        "Paprika",
+        "Parsley",
+        "Oregano",
+        "Salt",
+        "Pepper",
+        "Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 400 and cover roasting pan with parchment paper. Cut all ingredients and spead out on pan. Drizzle with olive oil and toss with spices. Bake for 30-45 minutes. Add cheese for garnish."
+    },
+    {
+      "id": 1,
       "name": "Snickerdoodles",
       "slug": "snickerdoodles",
       "category": "Desserts",
@@ -491,11 +519,30 @@
       "author": "Cassie Abood",
       "ingredients": [
         "2 pounds powdered sugar sifted",
-        "5 tablespoons Genie's Dream Premium Meringue Powder",
+        "5 tablespoons Meringue Powder",
         "2/3 cup water plus more for flood icing",
         "gel food coloring"
       ],
       "directions": "Combine ingredients in the bowl of a stand mixer. Mix on low speed with a whisk attachment until ingredients are combined. Turn up the speed to med/high and mix for 5 min or until very thick, shiny, stiff and white. You want the peaks of the icing to stand straight up without flopping over at all. If you want to make several different colors, divide the icing into several different bowls and beat in the food coloring by hand with a rubber spatula. For flood icing, add a bit more water at a time until you get the consistency you want- You want to be able to pull up a spoonful of icing and have it drip back down into the bowl and combine with the rest of the icing within just a few seconds.  "
+    },
+    {
+      "id": 1,
+      "name": "Brownie Trifle",
+      "slug": "brownie_trifle",
+      "category": "Desserts",
+      "subCat": "Other",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 package Brownie Mix with Chocolate Chips",
+        "16 ounces Heavy Whipping Cream",
+        "¼ cup Sugar",
+        "1 tsp. Vanilla",
+        "1 package Instant Chocolate Pudding Mix",
+        "½ cup Water",
+        "14 ounces Sweetened Condensed Milk",
+        "Chocolate Candy Bar, to shave and put on top"
+      ],
+      "directions": "Make brownies according to package directions.  Cool completely and cut into 1 inch squares.  Whip heavy cream with sugar and vanilla until stiff peaks form.  In a large bowl, combine pudding mix, water, and sweetened condensed milk.  Fold in half of the whipped cream.  In a trifle bowl, make a layer of brownies.  Spread 1/3 of the chocolate mixture on top of the brownies, and then 1/3 of the whipped cream on top of that.  Repeat the layers until you fill the bowl.  Top with the shaved chocolate.  Chill overnight."
     }
   ]
 }
