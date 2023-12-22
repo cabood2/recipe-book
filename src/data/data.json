@@ -512,6 +512,28 @@
     },
     {
       "id": 1,
+      "name": "Sugar Cookies",
+      "slug": "sugar_cookies",
+      "category": "Desserts",
+      "subCat": "Cookies",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 cup butter, softened",
+        "1 cup granulated sugar",
+        " 1/4 cup mayonnaise or Miracle Whip",
+        "1 cup vegetable oil",
+        "1 tablespoon vanilla extract",
+        "2 large large eggs",
+        "4 & 1/2 cups all purpose flour, spooned and leveled",
+        "1 teaspoon baking soda",
+        "1 teaspoon cream of tartar",
+        "1 teaspoon kosher salt",
+        "1/4 cup granulated sugar, for smashing cookies"
+      ],
+      "directions": "Preheat your oven to 350 degrees. In a large bowl, beat butter for about 2 minutes. Make sure it is nice and smooth, light and fluffy. Add granulated sugar, powdered sugar, and vegetable oil. Beat until well combined. Add vanilla and eggs. Beat well until smooth. Add flour, baking soda, cream of tartar, and kosher salt. Beat the dry ingredients into the dough until just barely combined; don’t over mix.     Roll into 1 inch balls. The dough is pretty soft because of the oil, but fear not, they bake up just fine. Add 1/4 cup of granulated sugar to a plate. Lightly wet the bottom of a drinking glass that has a flat bottom. Dip the glass in the sugar and use it to smash one cookie dough ball. Dip in sugar again and repeat with the remaining dough. You want to smash the cookies so they are about 1/4 inch thick. Bake about 10-12 minutes. You want the edges of the cookie to be light brown, and there should be no shine in the center of the cookie. Remove from the oven and let cool for 5 minutes on the pan, then remove to a cooling rack to cool completely. Use Royal Icing recipe. "
+    },
+    {
+      "id": 1,
       "name": "Royal Icing",
       "slug": "royal_icing",
       "category": "Desserts",
