@@ -373,6 +373,25 @@
     },
     {
       "id": 1,
+      "name": "Stuffing",
+      "slug": "stuffing",
+      "category": "Miscellaneous",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 loaf White Bread",
+        "1/4 cup Celery",
+        "1/4 cup Onion",
+        "1 egg",
+        "1 tbsp. Butter",
+        "Chicken Broth",
+        "Sage",
+        "Salt",
+        "Pepper"
+      ],
+      "directions": "Night before:  Tear up bread and put it in a bowl on the counter. Mix it up a few times throughout so the bread becomes hard.  On Thanksgiving: Dice about 1/4 cup onion and 1/4 cup celery.  Saute with 1 tbsp of butter until soft. Add to bread crumbs. Sprinkle sage over bread crumbs.  Put enough on so it looks seasoned but not completely green!  Salt and pepper too! Add one beaten egg. Add some chicken broth. Just add a little at a time.Mix with your hands. You want it to be moist enough but not soaking. Stuff turkey - both sides. Put extra in foil or casserole dish."
+    },
+    {
+      "id": 1,
       "name": "Swenson Burger Sauces",
       "slug": "swenson_burger_sauces",
       "category": "Condiments",
