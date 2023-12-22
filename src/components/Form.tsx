@@ -7,30 +7,46 @@ import {
 } from "@chakra-ui/react";
 import { FieldValues, useForm } from "react-hook-form";
 import CommentList from "./CommentList";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import useRecipes from "../hooks/useRecipes";
+import useRecipeStore from "../state-management/store";
+import useComments from "../hooks/useComments";
+import axios from "axios";
 
 export interface Remark {
   title: string;
   comment: string;
+  recipe: string | undefined;
 }
 
-interface Props {
-  commentLog: Remark[];
-}
+// interface Props {
+//   commentLog: Remark[];
+// }
+// { commentLog }: Props
 
-const Form = ({ commentLog }: Props) => {
+const Form = () => {
+  const { comments } = useComments();
+
   const {
     register,
     handleSubmit,
     formState: { errors, isValid },
-  } = useForm<Comment>();
+  } = useForm<Remark>();
 
-  const onSubmit = (data: Comment) => {
-    commentLog.push(data);
-    console.log(commentLog);
+  const { recipeQuery } = useRecipeStore();
+
+  const onSubmit = (data: Remark) => {
+    data.recipe = recipeQuery.recipe?.slug;
+    useEffect(() => {
+      axios.post<Remark[]>(
+        "https://my-json-server.typicode.com/cabood2/recipe-book/comments",
+        data
+      );
+    }, [recipeQuery]);
+
+    comments.push(data);
+    console.log(comments);
   };
-
-  //   const {commentLog} = useComments();
 
   return (
     <>
@@ -49,7 +65,7 @@ const Form = ({ commentLog }: Props) => {
           Post
         </Button>
       </FormControl>
-      <CommentList commentLog={commentLog} />
+      <CommentList commentLog={comments} />
     </>
   );
 };

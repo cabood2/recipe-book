@@ -2,32 +2,33 @@ import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
 import useRecipeStore from "../state-management/store";
-import db from "../data/db.json";
+import db from "../../db.json";
+import { Remark } from "../components/Form";
 
-const useCategories = () => {
+const useComments = () => {
   const { recipeQuery } = useRecipeStore();
-  const [categories, setCategories] = useState<Category[]>([]);
+  const [comments, setComments] = useState<Remark[]>([]);
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
-  // useEffect(() => {
-  //   axios
-  //     .get<Category[]>(
-  //       "../data/categories.json",
-  //       //  "https://my-json-server.typicode.com/cabood2/recipe-book/categories",
-  //       {
-  //         params: {
-  //           slug: recipeQuery.searchText,
-  //         },
-  //       }
-  //     )
-  //     .then((res) => setCategories(res.data));
-  // }, [recipeQuery]);
   useEffect(() => {
-    setCategories(db.categories);
-  });
+    axios
+      .get<Remark[]>(
+        "https://my-json-server.typicode.com/cabood2/recipe-book/comments",
+        {
+          params: {
+            recipe: recipeQuery.recipe?.slug,
+          },
+        }
+      )
+      .then((res) => setComments(res.data));
+  }, [recipeQuery]);
 
-  return { categories, error, isLoading };
+  // useEffect(() => {
+  //   setComments(db.comments);
+  // });
+
+  return { comments, error, isLoading };
 };
 
-export default useCategories;
+export default useComments;

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Category } from "../components/CategoryGrid";
 import axios from "axios";
 import useRecipeStore from "../state-management/store";
-import db from "../data/db.json";
+import db from "../data/data.json";
 
 const useCategories = () => {
   const { recipeQuery } = useRecipeStore();

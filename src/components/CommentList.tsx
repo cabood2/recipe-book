@@ -23,6 +23,7 @@ const CommentList = ({ commentLog }: Props) => {
             <Tr>
               <Td>{comment.title}</Td>
               <Td>{comment.comment}</Td>
+              <Td>{comment.recipe}</Td>
             </Tr>
           ))}
         </Tbody>

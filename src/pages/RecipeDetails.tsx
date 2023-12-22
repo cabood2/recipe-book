@@ -6,14 +6,13 @@ import Form, { Remark } from "../components/Form";
 
 const RecipeDetails = () => {
   const currRecipe = useRecipeStore((s) => s.recipeQuery.recipe);
-  const commentLog: Remark[] = [];
+  // const commentLog: Remark[] = [];
+  // commentLog={commentLog}
   return (
     <>
       <Box padding={10}>
         {currRecipe && <RecipeCard recipe={currRecipe} />}
-        <Box marginTop={10}>
-          <Form commentLog={commentLog}></Form>
-        </Box>
+        <Box marginTop={10}>{/* <Form></Form> */}</Box>
       </Box>
     </>
   );
