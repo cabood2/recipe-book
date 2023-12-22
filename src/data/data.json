@@ -354,6 +354,25 @@
     },
     {
       "id": 1,
+      "name": "Mini Chicken Pot Pies",
+      "slug": "mini_chicken_pot_pies",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 1/2 cups frozen veggies (peas, carrots, & corn)",
+        "1 1/2 cups Cream of Chicken Soup",
+        "½ cup Sour Cream",
+        "1/2 tsp. Poultry Seasoning",
+        "Salt",
+        "Pepper",
+        "2 cups Shredded Chicken",
+        "Shredded Cheese",
+        "Crescent Rolls"
+      ],
+      "directions": "Preheat oven to 375. Thaw frozen veggies. Combine cream of chicken soup, sour cream, poulty seasoning, salt, and pepper. Add in chicken and veggies, and sprinkle in some cheese. Spray muffin pan or ramekins. Line with crescent rolls (you can pinch rolls together and cut the size crescent square you want. Use a cookie scoop to fill evenly. Cook for about 18 minutes."
+    },
+    {
+      "id": 1,
       "name": "Swenson Burger Sauces",
       "slug": "swenson_burger_sauces",
       "category": "Condiments",
