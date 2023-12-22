@@ -23,6 +23,7 @@ import frosting from "../assets/frosting.jpg";
 import other from "../assets/other.jpg";
 import pies from "../assets/pies.jpg";
 import trifle from "../assets/trifle.jpg";
+import miscellaneous from "../assets/miscellaneous.jpg";
 import { easeIn } from "framer-motion";
 
 interface Props {
@@ -49,6 +50,7 @@ const CategoryCard = ({ category }: Props) => {
     cakes: cake,
     candies: candies,
     frosting: frosting,
+    miscellaneous: miscellaneous,
     other_desserts: other,
     pies: pies,
     trifles: trifle,
