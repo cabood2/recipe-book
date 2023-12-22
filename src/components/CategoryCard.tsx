@@ -50,7 +50,7 @@ const CategoryCard = ({ category }: Props) => {
     cakes: cake,
     candies: candies,
     frosting: frosting,
-    miscellaneous: miscellaneous,
+    misc: miscellaneous,
     other_desserts: other,
     pies: pies,
     trifles: trifle,
