@@ -603,6 +603,28 @@
         "Chocolate Candy Bar, to shave and put on top"
       ],
       "directions": "Make brownies according to package directions.  Cool completely and cut into 1 inch squares.  Whip heavy cream with sugar and vanilla until stiff peaks form.  In a large bowl, combine pudding mix, water, and sweetened condensed milk.  Fold in half of the whipped cream.  In a trifle bowl, make a layer of brownies.  Spread 1/3 of the chocolate mixture on top of the brownies, and then 1/3 of the whipped cream on top of that.  Repeat the layers until you fill the bowl.  Top with the shaved chocolate.  Chill overnight."
+    },
+    {
+      "id": 1,
+      "name": "Pie Dough",
+      "slug": "pie_dough",
+      "category": "Desserts",
+      "subCat": "Pies",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "For one single pie crust or 4-6 tart shells:",
+        "1 ½ cups Sifted Flour",
+        "½ tsp. Salt",
+        "½ cup Shortening",
+        "4-5 tbsp. Cold Water",
+
+        "For one 8, 9, or 10 inch double crust or lattice-top pie two 8, 9, or 10 inch single crust pies or 6-8 tale tart shells:",
+        "2 cups Sifted Flour",
+        "1 tsp. Salt",
+        "2/3 cup Shortening",
+        "5-7 tbsp. Cold Water"
+      ],
+      "directions": "Sift flour and salt together; cut in shortening with pastry blender until pieces are the size of small peas. Add water, 1 tbsp. at a time."
     }
   ]
 }
