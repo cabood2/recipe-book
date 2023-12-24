@@ -481,6 +481,37 @@
     },
     {
       "id": 1,
+      "name": "Green Bean Casserole",
+      "slug": "green_bean_casserole",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 can Cream of Mushroom Soup",
+        "¾ cup Milk",
+        "1/8 tsp. Pepper",
+        "18 ounces Frozen Green Beans, thawed and drained",
+        "1 ½ cups French Fried Onions, divided"
+      ],
+      "directions": "Preheat oven to 350°  Mix all ingredients except for ½ cup french fried onions, in 1 ½ quart casserole dish.  Bake for 30 minutes.  Top with remaining onions.  Bake 5 minutes more or until onions are golden."
+    },
+    {
+      "id": 1,
+      "name": "Ham & Hash Brown Casserole",
+      "slug": "ham_&_hash_brown_casserole",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "32 ounces Frozen Hash Brown Potatoes",
+        "8 ounces Ham, cooked and diced",
+        "2 cans Condensed Cram of Potato Soup",
+        "1 ½ cups Grated Parmesan Cheese",
+        "16 ounces Sour Cream",
+        "2 cups Shredded Sharp Cheddar Cheese"
+      ],
+      "directions": "Preheat oven to 375°  Lightly grease a 9 by 13 inch baking dish.  In a large bowl, mix hash browns, ham, cream of potato soup, sour cream, and cheddar cheese.  Spread evenly into prepared dish.  Sprinkle with parmesan cheese.  Bake 1 hour or until bubbly and lightly brown.  Serve immediately."
+    },
+    {
+      "id": 1,
       "name": "Air Fryer Chicken Thighs",
       "slug": "air_fryer_chicken_thighs",
       "category": "Chicken",
