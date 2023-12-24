@@ -489,7 +489,7 @@
         "1 can Cream of Mushroom Soup",
         "¾ cup Milk",
         "1/8 tsp. Pepper",
-        "18 ounces Frozen Green Beans, thawed and drained",
+        "2 cans Green Beans, thawed and drained",
         "1 ½ cups French Fried Onions, divided"
       ],
       "directions": "Preheat oven to 350°  Mix all ingredients except for ½ cup french fried onions, in 1 ½ quart casserole dish.  Bake for 30 minutes.  Top with remaining onions.  Bake 5 minutes more or until onions are golden."
@@ -656,6 +656,25 @@
         "5-7 tbsp. Cold Water"
       ],
       "directions": "Sift flour and salt together; cut in shortening with pastry blender until pieces are the size of small peas. Add water, 1 tbsp. at a time."
+    },
+    {
+      "id": 1,
+      "name": "Apple Pie Filling",
+      "slug": "apple_pie_filling",
+      "category": "Desserts",
+      "subCat": "Pies",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "6-8 Tart Apples, pared, cored, and thinly sliced",
+        "¾ -1 cup Sugar",
+        "2 tbsp. Flour",
+        "½ -1 tsp. Ground Cinnamon",
+        "Dash of Ground Nutmeg",
+        "Dash of  Salt",
+        "2 tbsp. Butter",
+        "Pastry for 2 Crusts, 9 inch pie"
+      ],
+      "directions": "Preheat oven to 400°  Combine sugar, flour, spices, and salt.  Mix with apples.  Line 9 inch pie plate with pastry.  Fill with mixture and dot with butter.  Cut slices only on top pie crust.  Bake for 50 minutes."
     }
   ]
 }
