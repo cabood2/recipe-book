@@ -562,8 +562,8 @@
         "For Burritos: ",
         "1 Recipe Slow Cooker Mexican Chicken",
         "6 burrito size tortillas",
-        "1 cup shredded sharp cheddar cheese",
-        "",
+        "1 cup shredded sharp cheddar cheese \n",
+
         "For Sauce: ",
         "2 tablespoons olive oil",
         "1 tablespoon butter",
@@ -574,8 +574,8 @@
         "1/4 teaspoon pepper",
         "1/2 cup sour cream",
         "2 oz. mild chopped green chilies",
-        "1/2 cup shredded sharp cheddar cheese",
-        "",
+        "1/2 cup shredded sharp cheddar cheese \n",
+
         "Optional Toppings",
         "Tomatoes",
         "Avocados/guacamole",
@@ -583,7 +583,7 @@
         "salsa",
         "tortilla strips or chips"
       ],
-      "directions": "Prepare Mexican Chicken according to recipe directions. Preheat oven to 400 degrees F. Line a baking sheet with foil and add a baking rack on top. Prepare burritos by adding a heaping ½ cup filling to each tortilla, top with desired amount of cheese and roll up burrito style. Place burritos on the baking rack and brush both sides lightly with olive oil or spray with nonstick cooking spray. Cook for 18-20 minutes or until golden. Broil to desired crispiness, flip over and broil the other side until golden. \\n Meanwhile, prepare sauce by melting butter in olive oil in a medium saucepan over medium heat. Whisk in flour and cook, stirring constantly for 3 minutes. Reduce heat to low then gradually whisk in chicken broth. Add spices and bring to a simmer while stirring until thickened, about 2-3 minutes. Remove from heat and stir in green chilies, cheese until melted, then sour cream. Add hot sauce to taste (optional). To serve, top burritos Cheesy Green Chili Sour Cream Sauce and desired toppings."
+      "directions": "Prepare Mexican Chicken according to recipe directions. Preheat oven to 400 degrees F. Line a baking sheet with foil and add a baking rack on top. Prepare burritos by adding a heaping ½ cup filling to each tortilla, top with desired amount of cheese and roll up burrito style. Place burritos on the baking rack and brush both sides lightly with olive oil or spray with nonstick cooking spray. Cook for 18-20 minutes or until golden. Broil to desired crispiness, flip over and broil the other side until golden. \n Meanwhile, prepare sauce by melting butter in olive oil in a medium saucepan over medium heat. Whisk in flour and cook, stirring constantly for 3 minutes. Reduce heat to low then gradually whisk in chicken broth. Add spices and bring to a simmer while stirring until thickened, about 2-3 minutes. Remove from heat and stir in green chilies, cheese until melted, then sour cream. Add hot sauce to taste (optional). To serve, top burritos Cheesy Green Chili Sour Cream Sauce and desired toppings."
     },
     {
       "id": 1,
@@ -748,6 +748,29 @@
         "1 tablespoon sugar mixed with 1/4 teaspoon ground cinnamon"
       ],
       "directions": "Preheat oven to 400° and thaw pastry sheets. Cut pastry sheets into the shape of a tree. Spread nutella on one pastry sheet. Lay the second pasty sheet on top. Don't forget the stump and star! Cut 1 inch thick strips down the tree and twist. Brush with egg yolk. Bake 25 minutes. Brush with butter and sprinkle with cinnamon and sugar."
+    },
+    {
+      "id": 1,
+      "name": "Perfectly Chocolate Chocolate Cake",
+      "slug": "perfectly_chocolate_chocolate_cake",
+      "category": "Desserts",
+      "subCat": "Cakes",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 cups Sugar",
+        "1 ¾ cup Flour",
+        "¾ cup Cocoa",
+        "1 ½ tsp. Baking Powder",
+        "1 ½ tsp. Baking Soda",
+        "1 tsp. Salt",
+        "2 Eggs",
+        "1 cup Milk",
+        "½ cup Vegetable Oil",
+        "2 tsp. Vanilla Extract",
+        "1 cup Boiling Water",
+        "Frosting"
+      ],
+      "directions": "Preheat oven to 350° Grease and flour two 9 in. round baking pans.\nCombine dry ingredients in large bowl. Add eggs, milk, oil, and vanilla; beat on medium speed for 2 min. Stir in boiling water (batter will be thin) Pour into pans. Bake 30-35 min. Cool for 10 min.\nFrost with Perfectly Chocolate Chocolate Frosting\nYield: 10-12 servings\nOnly bake for 20-25 min. for cupcakes."
     }
   ]
 }
