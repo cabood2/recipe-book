@@ -530,6 +530,63 @@
     },
     {
       "id": 1,
+      "name": "Crock Pot Mexican Chicken",
+      "slug": "crock_pot_mexican_chicken",
+      "category": "Chicken",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 pounds chicken breasts",
+        "1 tablespoon olive oil",
+        "1/2 cup mild salsa",
+        "3 tablespoons brown sugar",
+        "4 oz. can mild diced green chilies",
+        "14.5 oz. can Rotel",
+        "1 tablespoon chili powder",
+        "1 1/2 teaspoons salt",
+        "1 tsp ground cumin",
+        "1 tsp. garlic powder",
+        "1 tsp. onion powder",
+        "1/2 tsp smoked paprika",
+        "1/2 tsp. Dry Oregano",
+        "1/2 tsp. Pepper"
+      ],
+      "directions": "Rub chicken breasts with oil and place in the bottom of your slow cooker. Add all of the remaining ingredients. Cook on high for 2-4 hours or on low for 6-7 hours or until chicken is tender enough to shred. Shred the chicken and let it cook on low for an additional 20 minutes to absorb some of the liquid/juices. Drain all excess liquid. Taste and add hot sauce to taste if desired. If serving over rice, try stirring in some enchilada sauce after you drain your chicken for some saucy Enchilada Mexican Chicken."
+    },
+    {
+      "id": 1,
+      "name": "Baked Chicken Burritos",
+      "slug": "baked_chicken_burritos",
+      "category": "Chicken",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "For Burritos: ",
+        "1 Recipe Slow Cooker Mexican Chicken",
+        "6 burrito size tortillas",
+        "1 cup shredded sharp cheddar cheese",
+        "",
+        "For Sauce: ",
+        "2 tablespoons olive oil",
+        "1 tablespoon butter",
+        "3 tablespoons flour",
+        "2 cups chicken broth, warmed",
+        "1/2 teaspoon cumin",
+        "1/4-1/2 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1/2 cup sour cream",
+        "2 oz. mild chopped green chilies",
+        "1/2 cup shredded sharp cheddar cheese",
+        "",
+        "Optional Toppings",
+        "Tomatoes",
+        "Avocados/guacamole",
+        "cilantro",
+        "salsa",
+        "tortilla strips or chips"
+      ],
+      "directions": "Prepare Mexican Chicken according to recipe directions. Preheat oven to 400 degrees F. Line a baking sheet with foil and add a baking rack on top. Prepare burritos by adding a heaping ½ cup filling to each tortilla, top with desired amount of cheese and roll up burrito style. Place burritos on the baking rack and brush both sides lightly with olive oil or spray with nonstick cooking spray. Cook for 18-20 minutes or until golden. Broil to desired crispiness, flip over and broil the other side until golden. \\n Meanwhile, prepare sauce by melting butter in olive oil in a medium saucepan over medium heat. Whisk in flour and cook, stirring constantly for 3 minutes. Reduce heat to low then gradually whisk in chicken broth. Add spices and bring to a simmer while stirring until thickened, about 2-3 minutes. Remove from heat and stir in green chilies, cheese until melted, then sour cream. Add hot sauce to taste (optional). To serve, top burritos Cheesy Green Chili Sour Cream Sauce and desired toppings."
+    },
+    {
+      "id": 1,
       "name": "Kielbasa & Veggie Sheet Pan",
       "slug": "kielbasa_&_veggie_sheet_pan",
       "category": "Pork",
@@ -675,6 +732,22 @@
         "Pastry for 2 Crusts, 9 inch pie"
       ],
       "directions": "Preheat oven to 400°  Combine sugar, flour, spices, and salt.  Mix with apples.  Line 9 inch pie plate with pastry.  Fill with mixture and dot with butter.  Cut slices only on top pie crust.  Bake for 50 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Cinnamon & Sugar Nutella Pastry Tree",
+      "slug": "cinnamon_&_sugar_nutella_pastry_tree",
+      "category": "Desserts",
+      "subCat": "Other Desserts",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 sheets puff pastry, semi-frozen",
+        "2 tablespoons nutella",
+        "1 egg yolk",
+        "1 tablespoon unsalted butter, melted",
+        "1 tablespoon sugar mixed with 1/4 teaspoon ground cinnamon"
+      ],
+      "directions": "Preheat oven to 400° and thaw pastry sheets. Cut pastry sheets into the shape of a tree. Spread nutella on one pastry sheet. Lay the second pasty sheet on top. Don't forget the stump and star! Cut 1 inch thick strips down the tree and twist. Brush with egg yolk. Bake 25 minutes. Brush with butter and sprinkle with cinnamon and sugar."
     }
   ]
 }
