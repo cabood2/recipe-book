@@ -512,6 +512,22 @@
     },
     {
       "id": 1,
+      "name": "Sticky Rice Noodles",
+      "slug": "sticky_rice_noodles",
+      "category": "Sides",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "8 ounces Rice Noodles",
+        "3 tbsp. Butter or Sesame Oil",
+        "3/4 cup Chopped Green Onion",
+        "2 tbsp. Minced Garlic",
+        "2 tbsp. Sugar",
+        "3 tbsp. Soy Sauce"
+      ],
+      "directions": "Soak rice noodles in almost boiling water for 4 minutes, until al dente. Drain, then rinse with cold water. Meanwhile, melt butter in a large skilled, add green onions and garlic. Saute for 1-2 minutes. Add sugar and mix unitl incorporated. Add soy sauce and let simmer for 1 minute. Add noodles and continue to cook for 5-7 mintues until noodles have freid and absorbed the sauce. Garnish with additional green onion."
+    },
+    {
+      "id": 1,
       "name": "Air Fryer Chicken Thighs",
       "slug": "air_fryer_chicken_thighs",
       "category": "Chicken",
@@ -771,6 +787,29 @@
         "Frosting"
       ],
       "directions": "Preheat oven to 350° Grease and flour two 9 in. round baking pans.\nCombine dry ingredients in large bowl. Add eggs, milk, oil, and vanilla; beat on medium speed for 2 min. Stir in boiling water (batter will be thin) Pour into pans. Bake 30-35 min. Cool for 10 min.\nFrost with Perfectly Chocolate Chocolate Frosting\nYield: 10-12 servings\nOnly bake for 20-25 min. for cupcakes."
+    },
+    {
+      "id": 1,
+      "name": "Chicken Gnocchi Soup",
+      "slug": "chicken_gnocchi_soup",
+      "category": "Soups",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "3-4 boneless skinless chicken breasts - cooked and diced",
+        "1 stalk of celery, chopped",
+        "½ white onion, diced",
+        "2 teaspoons minced garlic",
+        "½ cup shredded carrots",
+        "1 tablespoon olive oil",
+        "4 cups low sodium chicken broth",
+        "salt and pepper, to taste",
+        "1 teaspoon thyme",
+        "16 ounces potato gnocchi",
+        "1 cup half and half",
+        "1 cup heavy whipping cream",
+        "1 cup fresh spinach, roughly chopped"
+      ],
+      "directions": "Heat olive oil in a large pot over medium heat. Add celery, onions, garlic, and carrots and saute for 2-3 minutes until onions are translucent. Add chicken, chicken broth, salt, pepper, and thyme, bring to a boil, then gently stir in gnocchi. Boil for 3-4 minutes longer before reducing heat to a simmer and cooking for 10 minutes. Stir in half and half, heavy whipping cream, and spinach and cook another 1-2 minutes until spinach is tender. Taste, add salt and pepper if needed, and serve. "
     }
   ]
 }
