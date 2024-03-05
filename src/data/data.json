@@ -528,6 +528,27 @@
     },
     {
       "id": 1,
+      "name": "Mongolian Beef",
+      "slug": "mongolian_beef",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1½ pound 1-inch thick sirloin steak",
+        "⅓ cup cornstarch",
+        "¼ cup canola oil",
+        "¼ teaspoon salt",
+        "1/4 tsp. Ginger",
+        "4 tablespoon Minced Garlic",
+        "Red pepper flakes",
+        "⅓ cup Soy Sauce",
+        "½ cup water",
+        "⅓ cup brown sugar",
+        "8 stalks Green Onions"
+      ],
+      "directions": "Slice the steak in ¼-inch slices. Lay the slices flat, and use a meat pounder to flatten the meat. Put the meat in a ziploc bag and coat in the cornstarch. Pour the canola oil into a large frying pan, and heat on medium high heat. Add the steak to the pan in a single layer and cook for 30 seconds per side. Set steak aside, then sprinkle with salt. Next, add the ginger, garlic, and red pepper flakes (if desired for more spice) to the pan and sauté for 10-15 seconds. Stir in soy sauce, water, and brown sugar and bring the mixture to a boil. Fold the steak back in and let the sauce thicken for 20-30 seconds. (The cornstarch used on the steak should thicken the sauce.) Turn off the heat, add the green onions, and stir to combine. Serve over white rice, rice noodles or in lettuce wraps."
+    },
+    {
+      "id": 1,
       "name": "Air Fryer Chicken Thighs",
       "slug": "air_fryer_chicken_thighs",
       "category": "Chicken",
