@@ -652,6 +652,27 @@
     },
     {
       "id": 1,
+      "name": "Mushroom Risotto",
+      "slug": "mushroom_risotto",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "7 tablespoons butter, divided",
+        "5 cups chicken stock",
+        "1 onion finely chopped",
+        "1 clove garlic finely chopped",
+        "~1/4 cup White wine, optional",
+        "1 ½ cups arborio rice",
+        "1 cup parmesan cheese",
+        "salt",
+        "black pepper",
+        "8-16 ounces sliced white mushrooms or baby bella mushrooms",
+        "parsley chopped, for garnish, optional"
+      ],
+      "directions": "Warm 2 tablespoons butter in a large saucepan over medium-high heat. Stir in mushrooms and cook until soft, approximately 3 minutes. Remove mushrooms and their liquid, and set aside. Pour stock into saucepan and bring to boil, then reduce to low simmer. In another saucepan, melt 4 tablespoons butter until foaming. Add onions and garlic. Cook only until onions are softened, not browned. Add white wine if using and give time for alcohol to cook off. Add rice. Stir until a few grains start to pop. Add broth, a few ladles of stock, salt, and pepper. Stir over low heat until liquid has been absorbed. Continue adding stock a few ladles at a time, letting the rice absorb the liquid before adding more. Stir constantly. After approximately 20 to 25 minutes, rice should be just tender and risotto thick and creamy. Remove saucepan from heat. Add parmesan cheese and remaining 1 tablespoon butter. Mix until butter has melted. Stir in mushrooms. Season with more salt, if necessary."
+    },
+    {
+      "id": 1,
       "name": "Snickerdoodles",
       "slug": "snickerdoodles",
       "category": "Desserts",
