@@ -253,8 +253,19 @@
       "slug": "meatloaf",
       "category": "Beef",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "1½ pounds Ground Beef",
+        "1 Egg",
+        "1 Onion, chopped",
+        "1 cup Milk",
+        "1 cup Dried Bread or Cracker Crumbs",
+        "To taste Salt",
+        "To taste Pepper",
+        "2 tbsp. Brown Sugar",
+        "2 tbsp. Prepared Mustard",
+        "1/3 cup Ketchup"
+      ],
+      "directions": "Preheat oven to 350° In a large bowl, combine the beef, egg, onion, milk, and bread crumbs or cracker crumbs.  Season with salt and pepper to taste and place in a lightly greased 5 by 9 inch loaf pan, or form into a loaf and place in a lightly greased 9 by 13 inch baking dish.  In a separate small bowl, combine the brown sugar, mustard, and ketchup.  Mix well and pour over the meatloaf.  Bake for 1 hour. Editor’s Note: Double the ketchup mixture.  Sauté onions in butter before adding to meat."
     },
     {
       "id": 1,
@@ -262,8 +273,18 @@
       "slug": "sloppy_joes",
       "category": "Beef",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "1 pound Lean Ground Beef",
+        "¼ cup Onion, chopped",
+        "¼ cup Green Bell Pepper, chopped",
+        "½ tsp. Garlic Powder",
+        "1 tsp. Prepared Yellow Mustard",
+        "¾ cup Ketchup",
+        "3 tsp. Brown Sugar",
+        "To taste Salt",
+        "To taste Ground Black Pepper"
+      ],
+      "directions": "In a medium skillet over medium heat, brown the ground beef, onion, and green pepper; drain off liquids.  Stir in the garlic powder, mustard, ketchup, and brown sugar; mix thoroughly.  Reduce heat, and simmer for 30 minutes.  Season with salt and pepper."
     },
     {
       "id": 1,
