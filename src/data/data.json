@@ -773,6 +773,22 @@
     },
     {
       "id": 1,
+      "name": "Cannoli Dip",
+      "slug": "cannoli_dip",
+      "category": "Desserts",
+      "subCat": "Other",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 cup ricotta",
+        "8 ounces cream cheese, softened",
+        "1 cup powdered sugar",
+        "1 teaspoon vanilla extract",
+        "2/3 cup mini chocolate chips"
+      ],
+      "directions": "Beat together ricotta, cream cheese, and powdered sugar. Add in vanilla. Add more powdered sugar if needed, up to 1/2 cup. Mix in chocolate chips."
+    },
+    {
+      "id": 1,
       "name": "Pie Dough",
       "slug": "pie_dough",
       "category": "Desserts",
