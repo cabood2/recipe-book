@@ -375,6 +375,22 @@
     },
     {
       "id": 1,
+      "name": "Green Beans",
+      "slug": "green_beans",
+      "category": "Sides",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 tablespoons extra virgin olive oil",
+        "1/2 teaspoon red pepper flake, or to taste",
+        "1.5 pounds green beans, trimmed",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon coarse kosher salt",
+        "2 tablespoons water"
+      ],
+      "directions": "Heat oil in a large skillet over medium-high heat. Add red pepper flake and stir to coat the pepper in the oil. Add green beans and cook, stirring often until the beans are blistering and browning in areas, 5 to 7 minutes. Add garlic and salt and cook, stirring constantly until the garlic is fragrant and browning, about 30 seconds. Add water and immediately cover with a well-fitting lid or sheet of aluminum foil. Steam the green beans, covered, until they are bright green and crisp tender, 1 to 2 minutes. Serve immediately."
+    },
+    {
+      "id": 1,
       "name": "Mini Chicken Pot Pies",
       "slug": "mini_chicken_pot_pies",
       "category": "Miscellaneous",
@@ -691,6 +707,15 @@
         "parsley chopped, for garnish, optional"
       ],
       "directions": "Warm 2 tablespoons butter in a large saucepan over medium-high heat. Stir in mushrooms and cook until soft, approximately 3 minutes. Remove mushrooms and their liquid, and set aside. Pour stock into saucepan and bring to boil, then reduce to low simmer. In another saucepan, melt 4 tablespoons butter until foaming. Add onions and garlic. Cook only until onions are softened, not browned. Add white wine if using and give time for alcohol to cook off. Add rice. Stir until a few grains start to pop. Add broth, a few ladles of stock, salt, and pepper. Stir over low heat until liquid has been absorbed. Continue adding stock a few ladles at a time, letting the rice absorb the liquid before adding more. Stir constantly. After approximately 20 to 25 minutes, rice should be just tender and risotto thick and creamy. Remove saucepan from heat. Add parmesan cheese and remaining 1 tablespoon butter. Mix until butter has melted. Stir in mushrooms. Season with more salt, if necessary."
+    },
+    {
+      "id": 1,
+      "name": "Salmon",
+      "slug": "salmon",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": ["Salmon", "Salt"],
+      "directions": "Heat the olive oil in a non-stick pan. Season the salmon generously with salt. Cook the salmon for 3 minutes then turn and cook for a further 3 minutes."
     },
     {
       "id": 1,
