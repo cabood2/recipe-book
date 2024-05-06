@@ -69,6 +69,11 @@
       "id": 14,
       "name": "Turkey",
       "slug": "turkey"
+    },
+    {
+      "id": 15,
+      "name": "Fish",
+      "slug": "fish"
     }
   ],
   "dessertCategories": [
@@ -712,7 +717,7 @@
       "id": 1,
       "name": "Salmon",
       "slug": "salmon",
-      "category": "Miscellaneous",
+      "category": "Fish",
       "author": "Cassie Abood",
       "ingredients": ["Salmon", "Salt"],
       "directions": "Heat the olive oil in a non-stick pan. Season the salmon generously with salt. Cook the salmon for 3 minutes then turn and cook for a further 3 minutes."
