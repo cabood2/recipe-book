@@ -603,6 +603,21 @@
     },
     {
       "id": 1,
+      "name": "Air Fryer Asparagus",
+      "slug": "air_fryer_asparagus",
+      "category": "Sides",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 pound fresh asparagus, trimmed",
+        "2 teaspoons olive oil",
+        "½ teaspoon seasoned salt, or to taste",
+        "2 tablespoons grated Parmesan cheese",
+        "2 tablespoons dried bread crumbs"
+      ],
+      "directions": "Toss asparagus in ingredients. 400 for 7-10 minutes"
+    },
+    {
+      "id": 1,
       "name": "Mongolian Beef",
       "slug": "mongolian_beef",
       "category": "Beef",
