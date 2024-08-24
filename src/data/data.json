@@ -639,6 +639,25 @@
     },
     {
       "id": 1,
+      "name": "Burgers",
+      "slug": "burgers",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 pounds ground beef",
+        "½ cup crushed saltine crackers or Panko breadcrumbs",
+        "1 large egg",
+        "2 tbsp Worcestershire sauce",
+        "2 tbsp milk",
+        "1 tsp salt",
+        "1 tsp garlic powder",
+        "1 teaspoon onion powder",
+        "½ teaspoon black pepper"
+      ],
+      "directions": "Mix it all together. For thick patties, grill 3-4 min per side, 2 for thin patties."
+    },
+    {
+      "id": 1,
       "name": "Air Fryer Chicken Thighs",
       "slug": "air_fryer_chicken_thighs",
       "category": "Chicken",
