@@ -677,6 +677,35 @@
     },
     {
       "id": 1,
+      "name": "Honey Garlic Ground Beef and Broccoli",
+      "slug": "honey_garlic_ground_beef_and_broccoli",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "For the Stir-Fry:",
+        "1 lb lean ground beef",
+        "3 cups broccoli florets",
+        "1 small onion, diced",
+        "3 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "",
+        "For the Honey Garlic Sauce:",
+        "⅓ cup soy sauce",
+        "¼ cup honey",
+        "1 tbsp rice vinegar",
+        "1 tsp ginger, grated",
+        "1 tbsp cornstarch (mixed with 2 tbsp water)",
+        "½ tsp red pepper flakes (optional)",
+        "",
+        "For Serving (Optional):",
+        "2 cups cooked rice or noodles",
+        "1 tbsp sesame seeds",
+        "2 green onions, sliced"
+      ],
+      "directions": "Prepare the Sauce: In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, red pepper flakes, and cornstarch slurry. Cook the Ground Beef: Heat olive oil in a pan, sauté the onion for 2 minutes, then add ground beef. Cook until browned. Stir in garlic and cook for 30 seconds. Stir in the broccoli and add ¼ cup water. Cover and steam for 3-4 minutes until tender but crisp. Pour the Sauce: Stir in the honey garlic sauce and let simmer for 2 minutes."
+    },
+    {
+      "id": 1,
       "name": "Burgers",
       "slug": "burgers",
       "category": "Beef",
@@ -837,6 +866,7 @@
       ],
       "directions": "Preheat oven to 400 and cover roasting pan with parchment paper. Cut all ingredients and spead out on pan. Drizzle with olive oil and toss with spices. Bake for 30-45 minutes. Add cheese for garnish."
     },
+
     {
       "id": 1,
       "name": "Mushroom Risotto",
@@ -908,6 +938,29 @@
         "Shredded Parmesan Cheese"
       ],
       "directions": "Cook pasta according to package directions. Meanwhile, in a large skillet, saute mushrooms and onions in butter for 4-5 minutes. Add wine or broth and garlic. Bring to boil; cook until liquid is reduced by half, about 5 minutes. Combine flour and water until smooth; gradually add to mushrom mixture. Bring to a boil. Reduce heat; cook and stir for 2 minutes or until thickened. Stir in cream. Bring to boil. Reduce heat and simmer for 4-5 minutes. Drain pasta. Add pasta, chicken, salt, and pepper to cream sauce. Cook 3-4 minutes or until heated through. Sprinkle with parmesan."
+    },
+    {
+      "id": 1,
+      "name": "Creamy Tuscan Sausage Pasta",
+      "slug": "creamy_tuscan_sausage_pasta",
+      "category": "Pasta",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 pound penne pasta",
+        "2 tbsp olive oil",
+        "1 lb Italian sausage ground",
+        "4 cloves garlic, minced",
+        "1/2 cup sun-dried tomatoes chopped",
+        "1 cup chicken broth",
+        "1 tsp. Italian seasoning",
+        "1/2 teaspoon red pepper flakes",
+        "2 cups heavy cream",
+        "1 cup freshly grated Parmesan cheese",
+        "2 cups baby spinach",
+        "Salt and pepper to taste",
+        "Fresh basil leaves torn, for garnish"
+      ],
+      "directions": "Cook the penne pasta according to package directions. Meanwhile, warm the olive oil in a large skillet over medium-high heat. Add the sausage and cook until browned, about 5-7 minutes. Set aside.  Reduce the heat to medium and add the garlic. Sauté until fragrant, about 1 minute, then stir in the sun-dried tomatoes, chicken broth, Italian seasoning, and red pepper flakes. Add the cream, bring to a simmer, and cook for 3-5 minutes to thicken. Stir in the Parmesan cheese, followed by the cooked sausage and baby spinach. Cook until the spinach is wilted, about 1-2 minutes. Season with salt and pepper to taste. Add the cooked penne to the skillet and toss to coat in the sauce, adding some reserved pasta water if needed to thin the sauce."
     },
     {
       "id": 1,
