@@ -228,8 +228,16 @@
       "slug": "lasagna",
       "category": "Beef",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "1 pound Lasagna Noodles",
+        "1 container Ricotta Cheese",
+        "2 Eggs, well beaten",
+        "1½-2 lbs. Ground Beef",
+        "Spaghetti Sauce",
+        "2 cup Mozzarella Cheese",
+        "Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 350°  Brown ground beef, drain, add to spaghetti sauce, set aside.  Save some spaghetti sauce for top.  Mix Ricotta with eggs.  Boil Lasagna according to package.  Slightly cover bottom of casserole with meat sauce.  Then alternate layers: Lasagna, ricotta, lasagna, meat sauce sprinkled with mozzarella and parmesan cheese.  End with top layer of sauce and cheese.  Bake, covered, for 1 hour"
     },
     {
       "id": 1,
@@ -237,8 +245,17 @@
       "slug": "flank_steak",
       "category": "Beef",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "2/3 cup Packed Brown Sugar",
+        "2/3 cup V8 Juice or Vegetable Juice",
+        "2/3 cup Soy Sauce",
+        "½ cup Olive Oil",
+        "4 Garlic Cloves, minced",
+        "2 tbsp. Chili Powder",
+        "¼ tsp. Ground Cumin",
+        "1 Beef Flank Steak (1 ½ pounds)"
+      ],
+      "directions": "Mix all ingredients.  Put in Ziploc bag to marinate.  Refrigerate for 8 hours or overnight.  Grill steak covered over medium-high heat for 6-10 minutes on each side or until done."
     },
     {
       "id": 1,
@@ -246,7 +263,22 @@
       "slug": "dad's_meatballs",
       "category": "Beef",
       "author": "Anthony Marotta",
-      "ingredients": [""],
+      "ingredients": [
+        "½ cup Bread Crumbs",
+        "½ cup Milk",
+        "½ - ¾  Large Onion",
+        "3 Eggs",
+        "1 tsp. Black Pepper",
+        "1 ½ tsp. Salt",
+        "2 tsp. Celery",
+        "Oregano",
+        "Basil",
+        "Onion Powder",
+        "2 tbsp. Minced Garlic",
+        "2 coffee scoopers Grated Parmesan",
+        "Olive Oil",
+        "1 ½ cups Cheese"
+      ],
       "directions": ""
     },
     {
@@ -254,9 +286,24 @@
       "name": "Macaroni Bake",
       "slug": "macaroni_bake",
       "category": "Beef",
-      "author": "Anne Phillips",
-      "ingredients": [""],
-      "directions": ""
+      "author": "Ann Phillips",
+      "ingredients": [
+        "2 ½ cups Macaroni, cooked for 10 minutes and drained",
+        "1½ pounds Ground Beef",
+        "3 cans Tomato Soup",
+        "1 can Beef Broth",
+        "1 Chicken Bouillon Cube, dissolved in 1 can of water",
+        "1 Small Onion, chopped",
+        "¼ tsp. Basil",
+        "¼ tsp. Oregano",
+        "2 spears Celery, chopped",
+        "1/3 cup Green Pepper, chopped",
+        "1/3 cup Red Pepper, chopped",
+        "3 tsp. Minced Garlic",
+        "1 tbsp. Sugar, drained",
+        "Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 350° Brown ground beef and drain. Sauté vegetables in margarine.  Add remaining ingredients except cheese.  Sprinkle cheese on top.  Bake for 1 hour."
     },
     {
       "id": 1,
@@ -308,6 +355,75 @@
     },
     {
       "id": 1,
+      "name": "Mongolian Beef",
+      "slug": "mongolian_beef",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1½ pound 1-inch thick sirloin steak",
+        "⅓ cup cornstarch",
+        "¼ cup canola oil",
+        "¼ teaspoon salt",
+        "1/4 tsp. Ginger",
+        "4 tablespoon Minced Garlic",
+        "Red pepper flakes",
+        "⅓ cup Soy Sauce",
+        "½ cup water",
+        "⅓ cup brown sugar",
+        "8 stalks Green Onions"
+      ],
+      "directions": "Slice the steak in ¼-inch slices. Lay the slices flat, and use a meat pounder to flatten the meat. Put the meat in a ziploc bag and coat in the cornstarch. Pour the canola oil into a large frying pan, and heat on medium high heat. Add the steak to the pan in a single layer and cook for 30 seconds per side. Set steak aside, then sprinkle with salt. Next, add the ginger, garlic, and red pepper flakes (if desired for more spice) to the pan and sauté for 10-15 seconds. Stir in soy sauce, water, and brown sugar and bring the mixture to a boil. Fold the steak back in and let the sauce thicken for 20-30 seconds. (The cornstarch used on the steak should thicken the sauce.) Turn off the heat, add the green onions, and stir to combine. Serve over white rice, rice noodles or in lettuce wraps."
+    },
+    {
+      "id": 1,
+      "name": "Honey Garlic Ground Beef and Broccoli",
+      "slug": "honey_garlic_ground_beef_and_broccoli",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "For the Stir-Fry:",
+        "1 lb lean ground beef",
+        "3 cups broccoli florets",
+        "1 small onion, diced",
+        "3 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "",
+        "For the Honey Garlic Sauce:",
+        "⅓ cup soy sauce",
+        "¼ cup honey",
+        "1 tbsp rice vinegar",
+        "1 tsp ginger, grated",
+        "1 tbsp cornstarch (mixed with 2 tbsp water)",
+        "½ tsp red pepper flakes (optional)",
+        "",
+        "For Serving (Optional):",
+        "2 cups cooked rice or noodles",
+        "1 tbsp sesame seeds",
+        "2 green onions, sliced"
+      ],
+      "directions": "Prepare the Sauce: In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, red pepper flakes, and cornstarch slurry. Cook the Ground Beef: Heat olive oil in a pan, sauté the onion for 2 minutes, then add ground beef. Cook until browned. Stir in garlic and cook for 30 seconds. Stir in the broccoli and add ¼ cup water. Cover and steam for 3-4 minutes until tender but crisp. Pour the Sauce: Stir in the honey garlic sauce and let simmer for 2 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Burgers",
+      "slug": "burgers",
+      "category": "Beef",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 pounds ground beef",
+        "½ cup crushed saltine crackers or Panko breadcrumbs",
+        "1 large egg",
+        "2 tbsp Worcestershire sauce",
+        "2 tbsp milk",
+        "1 tsp salt",
+        "1 tsp garlic powder",
+        "1 teaspoon onion powder",
+        "½ teaspoon black pepper"
+      ],
+      "directions": "Mix it all together. For thick patties, grill 3-4 min per side, 2 for thin patties."
+    },
+    {
+      "id": 1,
       "name": "Banana Nut Bread",
       "slug": "banana_nut_bread",
       "category": "Breads",
@@ -344,8 +460,25 @@
       "slug": "potica_nut_roll",
       "category": "Breads",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "1 package Actine Dry Yeast",
+        "¼ cup Warm Water (110° -115°)",
+        "¾ cup Warm Milk",
+        "¼ cup  Sugar",
+        "¼ cup Crisco",
+        "1 tsp. Salt",
+        "1 Egg, lightly beaten",
+        "3- 3½ cups Flour, divided",
+        "",
+        "Filling:",
+        "½ cup Margarine, softened",
+        "1 cup Brown Sugar, packed",
+        "2 Eggs, lightly beaten",
+        "1 tsp. Vanilla",
+        "4 cups Ground Walnuts",
+        "½ cup Milk"
+      ],
+      "directions": "In large bowl, dissolve yeast in water.  Add milk, sugar, margarine, salt, egg, and 1½ cups flour.  Beat until smooth with mixer.  Gradually add enough remaining flour to form a soft dough.  Use a spatula to beat.  Turn onto a floured surface; knead until smooth and elastic.  Place dough in a greased bowl,turning once to grease top. Cover with towel and let rise in a warm place until doubled, about 1 hour.  Filling:Combine margarine, brown sugar, eggs, vanilla, and nuts.  Add milk until mixture is of spreading consistency, about ½ cup; set aside. Punch dough down and separate into 2 rolls.  Roll to 14 by 18 inch size.  Spread filling to within 1 inch of edges.   Roll up from long sides.  Pinch ends and seams to seal.  Place on greased cookie sheet.  Brush with egg and water mixture before baking.  Bake at 350° for 30-35 minutes.  Brush with melted margarine after baking.  Cool on wire rack.  Wrap in foil and put in zip-lock freezer bag to freeze. IF Raising Dough in Oven: Heat at lowest setting (170°) for 2 minutes.  Turn oven off.  Place a pan of very warm water toward back of oven.  Place covered bowl on center rack. "
     },
     {
       "id": 1,
@@ -353,26 +486,61 @@
       "slug": "pumpkin_bread",
       "category": "Breads",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "3 cups Canned Pumpkin Puree",
+        "1 ½ cups Vegetable Oil",
+        "4 cups White Sugar",
+        "6 Eggs",
+        "4 ¾ cups Flour",
+        "1 ½ tsp. Baking Powder",
+        "1 ½ tsp. Baking Soda",
+        "1 ½ tsp. Salt",
+        "1 ½ tsp. Ground Cinnamon",
+        "1 ½ tsp Ground Nutmeg",
+        "1 ½ tsp. Ground Cloves",
+        "2 cups Mini Chocolate Chips"
+      ],
+      "directions": "Preheat oven to 350°  Grease and flour three 9x5 in. loaf pans.  IN a large bowl, mix together the pumpkin, oil, sugar, and eggs.   Combine the flour, baking powder, baking soda, salt, cinnamon, nutmeg, and cloves; stir into the pumpkin mixture until well blended.  Divide the batter evenly between the prepared pans.  Bake for 1 hour 5 min.  The top of loaf should spring back when lightly pressed.  Variations:  Add raisins, pecans, or walnuts instead of chocolate chips."
     },
-    {
-      "id": 1,
-      "name": "Zucchini Bread",
-      "slug": "zucchini_bread",
-      "category": "Breads",
-      "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
-    },
+
     {
       "id": 1,
       "name": "Breakfast Strata",
       "slug": "breakfast_strata",
       "category": "Breakfast",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "1 pound Sliced Fresh Mushrooms",
+        "1 tbsp. Vegetable Oil",
+        "1 quart Half and Half",
+        "12 Eggs",
+        "1 tsp. Salt and Several Grinds of Pepper",
+        "12 slices Fluffy White Bread",
+        "1 pound Cubed Fully Cooked Ham",
+        "12 ounces Extra-sharp Cheddar Cheese, grated",
+        "½ cup Thinly Sliced Green Onions"
+      ],
+      "directions": "Preheat oven to 325° Sauté mushrooms in oil.  Season with salt and set aside.  Whisk half and half, eggs, salt, and pepper until smooth.  Spray a 9 by 13 inch Pyrex or ceramic baking dish with vegetable cooking spray.  Line bottom with 6 slices of bread.  Scatter half of the ham, and half of the mushrooms over the bread, then sprinkle with half of the scallions and cheese.  Pour 1 cup of egg mixture over the top.  Repeat layers with remaining bread, ham, mushrooms, cheese, and scallions.  Slowly pour remaining egg mixture evenly over top.  Cover with plastic wrap, then weight down casserole with 3 16 ounce cans for at least 15 minutes to submerge ingredients. (Can be refrigerated overnight, but return to room temperature before baking)  Adjust oven rack to middle position.  Bake until custard is just set, about 50 minutes.  Turn on broiler and broil until strata is spotty brown and puffy (watch carefully), about 5 minutes longer.  Let stand for 8 to 10 minutes, then serve immediately. Personal Note: Sauté vegetables.  Cut crusts off of bread. Possible combinations: sausage and mushrooms, or peppers and onion"
+    },
+    {
+      "id": 1,
+      "name": "Crescent Roll Quiche",
+      "slug": "Crescent Roll Quiche",
+      "category": "Breakfast",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 roll Crescent Rolls",
+        "1 cup shredded Swiss or cheddar cheese",
+        "1/4 cup grated Parmesan cheese",
+        "1 1/2 cup half-and-half or milk",
+        "6 large eggs",
+        "Breakfast sausage or bacon",
+        "Spinach",
+        "1 tablespoon chopped onion, if desired",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon pepper"
+      ],
+      "directions": "Preheat oven to 350. Beat eggs in bowl and add everything. Spread crescent roll over the bottom of a 9x13 inch pan. Pour egg mixture over top. Bake about 40 minutes."
     },
     {
       "id": 1,
@@ -380,18 +548,16 @@
       "slug": "french_toast",
       "category": "Breakfast",
       "author": "Niki Marotta",
-      "ingredients": [""],
+      "ingredients": [
+        "3 Eggs",
+        "2/3 cup Milk",
+        "¼ tsp. Cinnamon",
+        "½ tsp. Vanilla Extract",
+        "1 tbsp. Sugar"
+      ],
       "directions": ""
     },
-    {
-      "id": 1,
-      "name": "Ham & Egg Brunch Braid",
-      "slug": "ham_and_egg_brunch_braid",
-      "category": "Breakfast",
-      "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
-    },
+
     {
       "id": 1,
       "name": "Indian Casserole",
@@ -419,6 +585,22 @@
     {
       "id": 1,
       "name": "Green Beans",
+      "slug": "green_beans",
+      "category": "Sides",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 tablespoons extra virgin olive oil",
+        "1/2 teaspoon red pepper flake, or to taste",
+        "1.5 pounds green beans, trimmed",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon coarse kosher salt",
+        "2 tablespoons water"
+      ],
+      "directions": "Heat oil in a large skillet over medium-high heat. Add red pepper flake and stir to coat the pepper in the oil. Add green beans and cook, stirring often until the beans are blistering and browning in areas, 5 to 7 minutes. Add garlic and salt and cook, stirring constantly until the garlic is fragrant and browning, about 30 seconds. Add water and immediately cover with a well-fitting lid or sheet of aluminum foil. Steam the green beans, covered, until they are bright green and crisp tender, 1 to 2 minutes. Serve immediately."
+    },
+    {
+      "id": 1,
+      "name": "Stuffing",
       "slug": "green_beans",
       "category": "Sides",
       "author": "Cassie Abood",
@@ -654,75 +836,7 @@
       ],
       "directions": "Toss asparagus in ingredients. 400 for 7-10 minutes"
     },
-    {
-      "id": 1,
-      "name": "Mongolian Beef",
-      "slug": "mongolian_beef",
-      "category": "Beef",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "1½ pound 1-inch thick sirloin steak",
-        "⅓ cup cornstarch",
-        "¼ cup canola oil",
-        "¼ teaspoon salt",
-        "1/4 tsp. Ginger",
-        "4 tablespoon Minced Garlic",
-        "Red pepper flakes",
-        "⅓ cup Soy Sauce",
-        "½ cup water",
-        "⅓ cup brown sugar",
-        "8 stalks Green Onions"
-      ],
-      "directions": "Slice the steak in ¼-inch slices. Lay the slices flat, and use a meat pounder to flatten the meat. Put the meat in a ziploc bag and coat in the cornstarch. Pour the canola oil into a large frying pan, and heat on medium high heat. Add the steak to the pan in a single layer and cook for 30 seconds per side. Set steak aside, then sprinkle with salt. Next, add the ginger, garlic, and red pepper flakes (if desired for more spice) to the pan and sauté for 10-15 seconds. Stir in soy sauce, water, and brown sugar and bring the mixture to a boil. Fold the steak back in and let the sauce thicken for 20-30 seconds. (The cornstarch used on the steak should thicken the sauce.) Turn off the heat, add the green onions, and stir to combine. Serve over white rice, rice noodles or in lettuce wraps."
-    },
-    {
-      "id": 1,
-      "name": "Honey Garlic Ground Beef and Broccoli",
-      "slug": "honey_garlic_ground_beef_and_broccoli",
-      "category": "Beef",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "For the Stir-Fry:",
-        "1 lb lean ground beef",
-        "3 cups broccoli florets",
-        "1 small onion, diced",
-        "3 cloves garlic, minced",
-        "1 tbsp olive oil",
-        "",
-        "For the Honey Garlic Sauce:",
-        "⅓ cup soy sauce",
-        "¼ cup honey",
-        "1 tbsp rice vinegar",
-        "1 tsp ginger, grated",
-        "1 tbsp cornstarch (mixed with 2 tbsp water)",
-        "½ tsp red pepper flakes (optional)",
-        "",
-        "For Serving (Optional):",
-        "2 cups cooked rice or noodles",
-        "1 tbsp sesame seeds",
-        "2 green onions, sliced"
-      ],
-      "directions": "Prepare the Sauce: In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, red pepper flakes, and cornstarch slurry. Cook the Ground Beef: Heat olive oil in a pan, sauté the onion for 2 minutes, then add ground beef. Cook until browned. Stir in garlic and cook for 30 seconds. Stir in the broccoli and add ¼ cup water. Cover and steam for 3-4 minutes until tender but crisp. Pour the Sauce: Stir in the honey garlic sauce and let simmer for 2 minutes."
-    },
-    {
-      "id": 1,
-      "name": "Burgers",
-      "slug": "burgers",
-      "category": "Beef",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "2 pounds ground beef",
-        "½ cup crushed saltine crackers or Panko breadcrumbs",
-        "1 large egg",
-        "2 tbsp Worcestershire sauce",
-        "2 tbsp milk",
-        "1 tsp salt",
-        "1 tsp garlic powder",
-        "1 teaspoon onion powder",
-        "½ teaspoon black pepper"
-      ],
-      "directions": "Mix it all together. For thick patties, grill 3-4 min per side, 2 for thin patties."
-    },
+
     {
       "id": 1,
       "name": "Air Fryer Chicken Thighs",
