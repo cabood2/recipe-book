@@ -429,6 +429,29 @@
     },
     {
       "id": 1,
+      "name": "Red Lobster Biscuits",
+      "slug": "red_lobster_biscuits",
+      "category": "Breads",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 cups all purpose flour",
+        "1 ⅓ cup sharp cheddar cheese, shredded",
+        "1 tablespoon baking powder",
+        "1 teaspoon garlic powder",
+        "½ teaspoon salt",
+        "2 tablespoons parsley, fresh, finely chopped",
+        "¾ cup milk",
+        "1 egg",
+        "⅓ cup butter, softened",
+        "Topping:",
+        "2 tablespoons butter, melted",
+        "1 tablespoon parsley",
+        "1 teaspoon garlic powder"
+      ],
+      "directions": "Preheat oven to 400°F. Line a baking sheet with parchment paper. Mix flour, cheddar cheese, baking powder, garlic powder, salt, and parsley. In a separate bowl, mix milk, egg, and butter. Pour into dry ingredients. Mix until a sticky dough forms, being careful not to overmix it. If the dough is dry, add a splash of milk. Divide dough into 8-10 mounds on prepared baking sheet, about 2 inches apart. Bake for 12-14 minutes. Brush each biscuit with topping and return to oven for an additional 5 minutes."
+    },
+    {
+      "id": 1,
       "name": "Potica Nut Roll",
       "slug": "potica_nut_roll",
       "category": "Breads",
