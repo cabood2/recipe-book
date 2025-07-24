@@ -175,8 +175,49 @@
       "slug": "fresh_fruit_dip",
       "category": "Appetizers",
       "author": "Niki Marotta",
-      "ingredients": [""],
+      "ingredients": [
+        "1 jar Kraft Marshmallow Creme",
+        "8 oz. Cream Cheese",
+        "Canned Fruit Syrup"
+      ],
       "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Mushroom Cheese Stromboli",
+      "slug": "mushroom_cheese_stromboli",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "¼ cup Fresh Mushrooms, sliced",
+        "1 tbsp. Butter",
+        "1 loaf Frozen Bread Dough, thawed",
+        "3 oz. Thinly Sliced Mozzarella Cheese",
+        "6 oz. Thinly Sliced Provolone Cheese",
+        "1 cup Grated Parmesan Cheese",
+        "1/3 cup Spaghetti Sauce",
+        "½ tsp. Dried Oregano",
+        "1 Egg Yolk",
+        "½ tsp. Water"
+      ],
+      "directions": "Preheat oven to 350°  In skillet sauté mushrooms in butter.  Set aside.  On lightly floured board roll dough into 30x8 in. rectangle.  Cut in half length wise (16x8 in. pieces)  On long side of each piece layer pepperoni, cheeses, mushrooms, sauce, oregano, and garlic powder.  Fold over dough and pinch to seal.  Combine egg and water.  Brush over edges and top of dough.  With sharp knife cut 5 small steam vents in the top of each loaf.  Place on greased baking sheets.  Bake for 27-30 min."
+    },
+    {
+      "id": 1,
+      "name": "Party Pinwheels",
+      "slug": "party_pinwheels",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 pkg. Cream Cheese, softened",
+        "1 pkg. Ranch Dressing Mix",
+        "2 Green Onions, minced",
+        "4 12 in. Flour Tortillas",
+        "½ cup Red Bell Pepper, diced",
+        "1 can  Sliced Black Olives",
+        "½ cup  Shredded Cheddar Cheese"
+      ],
+      "directions": "In a mixing bowl combine cream cheese, ranch dressing mix, and green onions.  Spread mixture onto each tortilla.  Sprinkle red pepper, celery, olives, and cheese over the cream cheese mixture.  Roll up tortillas, then wrap tightly in foil.  Chill 2 hours or overnight.  Slice into 1 in. slices. (6-7 slices per shell)"
     },
     {
       "id": 1,
@@ -200,8 +241,40 @@
       "slug": "vegetable_pizza",
       "category": "Appetizers",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "2 tubes Crescent Rolls",
+        "1 cup Mayonnaise",
+        "1 packet Ranch Dip Mix",
+        "8 oz. Cream Cheese, softened",
+        "Taco Cheddar Cheese",
+        "Broccoli",
+        "Green Pepper",
+        "Red Pepper",
+        "Tomatoes",
+        "Purple Onion"
+      ],
+      "directions": "Bake crescent rolls (seal perforated edges) according to package on 9x13 in. pan or 15x10x1 in. pan.  Mix mayo, cream cheese, and ranch.  Put on cooled crust.  Chop the vegetables and cheese.  Put on top."
+    },
+    {
+      "id": 1,
+      "name": "Pimiento Cheese Dip",
+      "slug": "pimiento_cheese_dip",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "16 ounces Sharp Cheddar Cheese, shredded",
+        "8 ounces Cream Cheese, softened",
+        "1 cup Mayo",
+        "7 ounces Diced Pimientos, well drained",
+        "½ cup Green Onions, chopped",
+        "1 tsp. Dry Mustard",
+        "1 tsp. Worcestershire Sauce",
+        "Dash of Hot Sauce",
+        "To taste Salt",
+        "To taste Pepper",
+        "1 cup Ritz Crackers"
+      ],
+      "directions": "Preheat oven to 375°  Combine cream cheese and mayo. Add in pimientos, green onions, ground mustard, Worcestershire sauce, and a dash of hot sauce.  Add in shredded cheese.  Add salt and pepper to taste.  Spread mixture into a 2 quart baking dish prepared with nonstick spray."
     },
     {
       "id": 1,
@@ -209,8 +282,27 @@
       "slug": "simmered_smoke_links",
       "category": "Appetizers",
       "author": "Niki Marotta",
-      "ingredients": [""],
-      "directions": ""
+      "ingredients": [
+        "2 16 oz. packages Mini Smoked Sausage Links",
+        "1 cup Packed Brown Sugar",
+        "½ cup Ketchup",
+        "¼ cup Prepared Horseradish"
+      ],
+      "directions": "Place sausages in slow cooker.  Combine remaining ingredients.  Pour over sausages. Cover and cook on low for 4 hours. Yield: 16-20 servings "
+    },
+    {
+      "id": 1,
+      "name": "Velveeta Cheese Dip",
+      "slug": "velveeta_cheese_dip",
+      "category": "Appetizers",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 lb. Velveeta, cut up",
+        "1 can Rotel Diced Tomatoes and Green Chilies, drained",
+        "¼ cup Green Onions, chopped",
+        "1 tsp. Green Cumin"
+      ],
+      "directions": "Mix all ingredients in a microwave safe bowl.  Microwave on high for 6-7 min. or until cheese is melted.  Stir every 3 min.  Serve with tortilla chips or cut up vegetables. "
     },
     {
       "id": 1,
@@ -668,25 +760,7 @@
       ],
       "directions": "Cut chicken into small bite-sized pieces. Marinate with chicken ingredients for 15min - 24 hrs. Combine all crema ingredients. You can use a blender to combine if you like. Saute the chicken and set aside. Saute the pepper and onion. Add in garlic. Add the chicken back in to bring it back to temperature. Make and wrap burritos. In a skillet, heat butter and brown burritos on both sides."
     },
-    {
-      "id": 1,
-      "name": "Mini Chicken Pot Pies",
-      "slug": "mini_chicken_pot_pies",
-      "category": "Miscellaneous",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "1 1/2 cups frozen veggies (peas, carrots, & corn)",
-        "1 1/2 cups Cream of Chicken Soup",
-        "½ cup Sour Cream",
-        "1/2 tsp. Poultry Seasoning",
-        "Salt",
-        "Pepper",
-        "2 cups Shredded Chicken",
-        "Shredded Cheese",
-        "Crescent Rolls"
-      ],
-      "directions": "Preheat oven to 375. Thaw frozen veggies. Combine cream of chicken soup, sour cream, poulty seasoning, salt, and pepper. Add in chicken and veggies, and sprinkle in some cheese. Spray muffin pan or ramekins. Line with crescent rolls (you can pinch rolls together and cut the size crescent square you want. Use a cookie scoop to fill evenly. Cook for about 18 minutes."
-    },
+
     {
       "id": 1,
       "name": "Honey Soy Chicken Marinade",
@@ -706,6 +780,60 @@
         "1 1/2 tsp cornstarch"
       ],
       "directions": "For the marinade, combine all ingredients. You may garnish chicken with green onions. For the serving sauce, place reserved sauce in a small saucepan. Mix cornflour and water, then add into saucepan. Simmer over medium for 5 minutes, stirring regularly, until it thickens to a syrupy consistency."
+    },
+    {
+      "id": 1,
+      "name": "4 Ingredient Marinade",
+      "slug": "4_ingredient_marinade",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 cup Brown Sugar",
+        "1 cup  Oil",
+        "½ cup Soy Sauce",
+        "½ cup Vinegar"
+      ],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Delectable Marinade",
+      "slug": "delectable_marinade",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 tbsp. Worcestershire Sauce",
+        "2 tbsp. Low Sodium Soy Sauce",
+        "2 tbsp. Teriyaki Sauce",
+        "1 tbsp. Molasses",
+        "1 tbsp. Brown Sugar",
+        "1 tsp. Paprika",
+        "½ tsp. Garlic Salt",
+        "¼ tsp. Garlic Pepper",
+        "2 tsp. Minced Garlic",
+        "¼ cup Canola Oil",
+        "8 Skinless, Boneless Chicken Thighs"
+      ],
+      "directions": ""
+    },
+    {
+      "id": 1,
+      "name": "Do It All Marinade",
+      "slug": "do_it_all_marinade",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "¾ cup Olive Oil",
+        "½ cup Soy Sauce",
+        ",¼ cup Worcestershire Sauce",
+        "¼ cup Balsamic Vinegar",
+        "2 tbsp. Lemon Juice",
+        "2 tbsp. Dijon Mustard",
+        "1 tsp. Pepper",
+        "3 Garlic Cloves, minced",
+        "1 tbsp. Fresh Chopped Parsley"
+      ],
+      "directions": "Use as a marinade for beef, pork, chicken, or shrimp."
     },
     {
       "id": 1,
@@ -814,6 +942,149 @@
     },
     {
       "id": 1,
+      "name": "Mini Chicken Pot Pies",
+      "slug": "mini_chicken_pot_pies",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 1/2 cups frozen veggies (peas, carrots, & corn)",
+        "1 1/2 cups Cream of Chicken Soup",
+        "½ cup Sour Cream",
+        "1/2 tsp. Poultry Seasoning",
+        "Salt",
+        "Pepper",
+        "2 cups Shredded Chicken",
+        "Shredded Cheese",
+        "Crescent Rolls"
+      ],
+      "directions": "Preheat oven to 375. Thaw frozen veggies. Combine cream of chicken soup, sour cream, poulty seasoning, salt, and pepper. Add in chicken and veggies, and sprinkle in some cheese. Spray muffin pan or ramekins. Line with crescent rolls (you can pinch rolls together and cut the size crescent square you want. Use a cookie scoop to fill evenly. Cook for about 18 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Disney Grilled Cheese",
+      "slug": "disney_grilled_cheese",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "½ cup Cream Cheese",
+        "½ cup Cheddar",
+        "2 tbsp. Heavy Cream",
+        "¼ tsp. Salt",
+        "1 cup  Mayo",
+        "1 ½ tsp. Garlic",
+        "½ tsp. Coarse Salt",
+        "4 slices Provolone",
+        "4 slices  American"
+      ],
+      "directions": "In one bowl, combine cream cheese, cheddar, heavy cream, and salt.  Spread on inside of bread slices.  In second bowl, combine mayo, garlic, and salt.  Spread on outside of bread slices.  Grill as normal, using 4 slices of cheese per sandwich, 2 provolone and 2 american. "
+    },
+    {
+      "id": 1,
+      "name": "Egg Salad Sandwiches",
+      "slug": "egg_salad_sandwiches",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "8 Hard-cooked Eggs, diced",
+        "1 cup Mayonnaise",
+        "¼ cup Diced Onion",
+        "½ tsp. Salt",
+        "1 tsp. Mustard Powder",
+        "¼ tsp. Garlic Powder",
+        "¼ tsp. Black Pepper",
+        "1 tsp. Dill Weed",
+        "8 slices White Bread"
+      ],
+      "directions": "In a bowl, gently mix the eggs, mayonnaise, onion, salt, mustard powder, garlic powder, pepper, and dill.  Cover and refrigerate 8 hours, or overnight.  To serve, spread equal amounts on 4 slices.  Top with remaining bread."
+    },
+    {
+      "id": 1,
+      "name": "Spiral Stromboli",
+      "slug": "spiral_stromboli",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 tube Refrigerated Crusty French Loaf",
+        "1 cup Shredded Mozzarella Cheese",
+        "1 cup Shredded Cheddar Cheese",
+        "¼ pound Thinly Sliced Salami",
+        "¼ pound Thinly Sliced Ham",
+        "2 ounces Pimientos, drained",
+        "1 tbsp. Butter, melted",
+        "2-3 tbsp. Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 375°  Unroll dough and pat into a 14 by 12 inch rectangle.  Spread cheese to within ½ inch of the edge.  Top with meat and pimientos.  Roll up jelly style, starting with the short side.  Seal seam and tuck ends under.  Bake 20 to 25 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Mushroom Risotto",
+      "slug": "mushroom_risotto",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "7 tablespoons butter, divided",
+        "5 cups chicken stock",
+        "1 onion finely chopped",
+        "1 clove garlic finely chopped",
+        "~1/4 cup White wine, optional",
+        "1 ½ cups arborio rice",
+        "1 cup parmesan cheese",
+        "salt",
+        "black pepper",
+        "8-16 ounces sliced white mushrooms or baby bella mushrooms",
+        "parsley chopped, for garnish, optional"
+      ],
+      "directions": "Warm 2 tablespoons butter in a large saucepan over medium-high heat. Stir in mushrooms and cook until soft, approximately 3 minutes. Remove mushrooms and their liquid, and set aside. Pour stock into saucepan and bring to boil, then reduce to low simmer. In another saucepan, melt 4 tablespoons butter until foaming. Add onions and garlic. Cook only until onions are softened, not browned. Add white wine if using and give time for alcohol to cook off. Add rice. Stir until a few grains start to pop. Add broth, a few ladles of stock, salt, and pepper. Stir over low heat until liquid has been absorbed. Continue adding stock a few ladles at a time, letting the rice absorb the liquid before adding more. Stir constantly. After approximately 20 to 25 minutes, rice should be just tender and risotto thick and creamy. Remove saucepan from heat. Add parmesan cheese and remaining 1 tablespoon butter. Mix until butter has melted. Stir in mushrooms. Season with more salt, if necessary."
+    },
+    {
+      "id": 1,
+      "name": "Eggplant Parmigiana",
+      "slug": "eggplant_parmigiana",
+      "category": "Miscellaneous",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "Sauce:",
+        "2 tbsp. Olive Oil",
+        "½ cup Chopped Onion",
+        "1 Garlic Clove",
+        "1 can Italian Tomatoes,undrained",
+        "1 can Tomato Paste",
+        "2 tsp. Dried Oregano",
+        "1 tsp. Dried Basil Leaves",
+        "1 tsp. Salt",
+        "¼ tsp. Pepper",
+        "1 tbsp. Brown Sugar",
+        "",
+        "1 Large Eggplant(1 ½ pounds)",
+        "2 Eggs, slightly beaten",
+        "½ cup Italian Dry Bread Crumbs",
+        "1 ¼ cups Grated Parmesan Cheese",
+        "1/3 cup Oil",
+        "8 ounces Shredded Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 350°  For the sauce: In oil in large skillet, sauté onion and garlic. Add tomatoes, paste, oregano,basil, salt, pepper, and sugar. Bring to a boil and simmer for 45 minutes, covered. Breading Eggplant: Remove skin! Lay eggplant on paper towels to absorb excess liquid. In pie plate, combine eggs and 1 tbsp. of water. Mix well with fork. Combine bread crumbs and 1/2 cup of Parmesan cheese. Dip eggplant into egg mixture in crumb mixture. In oil in skillet sauté eggplant until golden brown and crisp on both sides. Add oil as needed. In 13 by 9 inch greased pan,arrange half of the eggplant on the bottom. Sprinkle parmesan and top with mozzarella cheese. Cover with half of tomato sauce. Arrange remaining eggplant over sauce. Top with remaining sauce and cheese. Sprinkle withParmesan. Bake uncovered for 20-25 minutes. To serve frozen: Bake frozen ate 350 covered for 45 minutes. Then bake uncovered for 15 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Stuffing",
+      "slug": "stuffing",
+      "category": "Miscellaneous",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 loaf White Bread",
+        "1/4 cup Celery",
+        "1/4 cup Onion",
+        "1 egg",
+        "1 tbsp. Butter",
+        "Chicken Broth",
+        "Sage",
+        "Salt",
+        "Pepper"
+      ],
+      "directions": "Night before:  Tear up bread and put it in a bowl on the counter. Mix it up a few times throughout so the bread becomes hard.  On Thanksgiving: Dice about 1/4 cup onion and 1/4 cup celery.  Saute with 1 tbsp of butter until soft. Add to bread crumbs. Sprinkle sage over bread crumbs.  Put enough on so it looks seasoned but not completely green!  Salt and pepper too! Add one beaten egg. Add some chicken broth. Just add a little at a time.Mix with your hands. You want it to be moist enough but not soaking. Stuff turkey - both sides. Put extra in foil or casserole dish."
+    },
+    {
+      "id": 1,
       "name": "Indian Casserole",
       "slug": "indian_casserole",
       "category": "Sides",
@@ -855,25 +1126,6 @@
 
     {
       "id": 1,
-      "name": "Stuffing",
-      "slug": "stuffing",
-      "category": "Miscellaneous",
-      "author": "Niki Marotta",
-      "ingredients": [
-        "1 loaf White Bread",
-        "1/4 cup Celery",
-        "1/4 cup Onion",
-        "1 egg",
-        "1 tbsp. Butter",
-        "Chicken Broth",
-        "Sage",
-        "Salt",
-        "Pepper"
-      ],
-      "directions": "Night before:  Tear up bread and put it in a bowl on the counter. Mix it up a few times throughout so the bread becomes hard.  On Thanksgiving: Dice about 1/4 cup onion and 1/4 cup celery.  Saute with 1 tbsp of butter until soft. Add to bread crumbs. Sprinkle sage over bread crumbs.  Put enough on so it looks seasoned but not completely green!  Salt and pepper too! Add one beaten egg. Add some chicken broth. Just add a little at a time.Mix with your hands. You want it to be moist enough but not soaking. Stuff turkey - both sides. Put extra in foil or casserole dish."
-    },
-    {
-      "id": 1,
       "name": "Swenson Burger Sauces",
       "slug": "swenson_burger_sauces",
       "category": "Condiments",
@@ -906,6 +1158,30 @@
         "2 tsp yellow mustard"
       ],
       "directions": "Combine all ingredients."
+    },
+    {
+      "id": 1,
+      "name": "Dad's Sauce",
+      "slug": "dad's_sauce",
+      "category": "Condiments",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "56 ounces Tomato Sauce",
+        "28 ounces Crushed Tomato",
+        "28 ounces Diced Tomato",
+        "1  Yellow, Red, or Orange Pepper",
+        "2 Onions",
+        "4 tbsp. Minced Garlic",
+        "½ cup Olive Oil",
+        "14 ounces Grape Jelly",
+        "1/3 cup Sugar",
+        "<1/3 cup Grated Parmesan",
+        "<1/3 cup Shredded Parmesan",
+        "1 tbsp. Italian Seasoning",
+        "1 tbsp. Basil",
+        "½ tbsp. Oregano"
+      ],
+      "directions": "This makes a small pot. Preheat oven to 400°"
     },
     {
       "id": 1,
@@ -1067,55 +1343,6 @@
 
     {
       "id": 1,
-      "name": "Mushroom Risotto",
-      "slug": "mushroom_risotto",
-      "category": "Miscellaneous",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "7 tablespoons butter, divided",
-        "5 cups chicken stock",
-        "1 onion finely chopped",
-        "1 clove garlic finely chopped",
-        "~1/4 cup White wine, optional",
-        "1 ½ cups arborio rice",
-        "1 cup parmesan cheese",
-        "salt",
-        "black pepper",
-        "8-16 ounces sliced white mushrooms or baby bella mushrooms",
-        "parsley chopped, for garnish, optional"
-      ],
-      "directions": "Warm 2 tablespoons butter in a large saucepan over medium-high heat. Stir in mushrooms and cook until soft, approximately 3 minutes. Remove mushrooms and their liquid, and set aside. Pour stock into saucepan and bring to boil, then reduce to low simmer. In another saucepan, melt 4 tablespoons butter until foaming. Add onions and garlic. Cook only until onions are softened, not browned. Add white wine if using and give time for alcohol to cook off. Add rice. Stir until a few grains start to pop. Add broth, a few ladles of stock, salt, and pepper. Stir over low heat until liquid has been absorbed. Continue adding stock a few ladles at a time, letting the rice absorb the liquid before adding more. Stir constantly. After approximately 20 to 25 minutes, rice should be just tender and risotto thick and creamy. Remove saucepan from heat. Add parmesan cheese and remaining 1 tablespoon butter. Mix until butter has melted. Stir in mushrooms. Season with more salt, if necessary."
-    },
-    {
-      "id": 1,
-      "name": "Eggplant Parmigiana",
-      "slug": "eggplant_parmigiana",
-      "category": "Miscellaneous",
-      "author": "Niki Marotta",
-      "ingredients": [
-        "Sauce:",
-        "2 tbsp. Olive Oil",
-        "½ cup Chopped Onion",
-        "1 Garlic Clove",
-        "1 can Italian Tomatoes,undrained",
-        "1 can Tomato Paste",
-        "2 tsp. Dried Oregano",
-        "1 tsp. Dried Basil Leaves",
-        "1 tsp. Salt",
-        "¼ tsp. Pepper",
-        "1 tbsp. Brown Sugar",
-        "",
-        "1 Large Eggplant(1 ½ pounds)",
-        "2 Eggs, slightly beaten",
-        "½ cup Italian Dry Bread Crumbs",
-        "1 ¼ cups Grated Parmesan Cheese",
-        "1/3 cup Oil",
-        "8 ounces Shredded Parmesan Cheese"
-      ],
-      "directions": "Preheat oven to 350°  For the sauce: In oil in large skillet, sauté onion and garlic. Add tomatoes, paste, oregano,basil, salt, pepper, and sugar. Bring to a boil and simmer for 45 minutes, covered. Breading Eggplant: Remove skin! Lay eggplant on paper towels to absorb excess liquid. In pie plate, combine eggs and 1 tbsp. of water. Mix well with fork. Combine bread crumbs and 1/2 cup of Parmesan cheese. Dip eggplant into egg mixture in crumb mixture. In oil in skillet sauté eggplant until golden brown and crisp on both sides. Add oil as needed. In 13 by 9 inch greased pan,arrange half of the eggplant on the bottom. Sprinkle parmesan and top with mozzarella cheese. Cover with half of tomato sauce. Arrange remaining eggplant over sauce. Top with remaining sauce and cheese. Sprinkle withParmesan. Bake uncovered for 20-25 minutes. To serve frozen: Bake frozen ate 350 covered for 45 minutes. Then bake uncovered for 15 minutes."
-    },
-    {
-      "id": 1,
       "name": "Creamy Chicken and Pasta",
       "slug": "creamy_chicken_and_pasta",
       "category": "Pasta",
@@ -1229,12 +1456,62 @@
     },
     {
       "id": 1,
+      "name": "Olive Garden Alfredo",
+      "slug": "olive_garden_alfredo",
+      "category": "Pasta",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 stick Butter",
+        "1 clove Minced Garlic",
+        "1 pint  Heavy Cream",
+        "1 cup Parmesan Cheese",
+        "2 tbsp. Cream Cheese",
+        "¼ tsp. Salt",
+        "Pepper"
+      ],
+      "directions": "In a saucepan over medium heat, melt butter.  Add in garlic and cook for 2 minutes.  Add in cheese and mix until melted.  Add salt and pepper to taste."
+    },
+    {
+      "id": 1,
       "name": "Salmon",
       "slug": "salmon",
       "category": "Fish",
       "author": "Cassie Abood",
       "ingredients": ["Salmon", "Salt"],
       "directions": "Heat the olive oil in a non-stick pan. Season the salmon generously with salt. Cook the salmon for 3 minutes then turn and cook for a further 3 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Tuna Turnovers",
+      "slug": "tuna_turnovers",
+      "category": "Fish",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 tube Crescent Rolls",
+        "1 can Tuna, drained",
+        "Miracle Whip",
+        "Cheddar Cheese, shredded"
+      ],
+      "directions": "Preheat oven to 425° Combine tuna and miracle whip.  Separate the crescent rolls into rectangles (2 triangles).  Spread tuna mixture on 1 half of the rectangle.  Put cheese over tuna mixture.  Fold over crescent rolls and seal dough.  Place on ungreased baking sheet.  Bake for about 10 minutes or until golden brown."
+    },
+    {
+      "id": 1,
+      "name": "Tilapia",
+      "slug": "tilapia",
+      "category": "Fish",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "4 Tilapia Fillets, thawed",
+        "¼ cup Parmesan Cheese",
+        "2 tbsp. Butter, softened",
+        "1 tbsp. and ½ tsp. Mayonnaise",
+        "1 tbsp. Lemon Juice",
+        "1/8 tsp. Basil, each",
+        "1/8 tsp. Black Pepper, each",
+        "1/8 tsp. Onion Powder,each",
+        "1/8 tsp. Celery Salt, each"
+      ],
+      "directions": "Preheat broiler.  Grease a broiling pan or line pan with aluminum foil.  In small bowl mix cheese, butter, mayonnaise, and lemon juice.  Add spices.  Arrange fillets on pan and broil a few inches from heat for 2-3 minutes.  Remove fillets and top with parmesan mixture.  Broil 2-3 more minutes."
     },
     {
       "id": 1,
