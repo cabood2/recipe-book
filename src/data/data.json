@@ -88,16 +88,6 @@
   ],
   "recipes": [
     {
-      "id": 10000,
-      "name": "Chicken Parmesan",
-      "slug": "chicken parm",
-      "category": "Chicken",
-      "subCat": "",
-      "author": "Niki Marotta",
-      "ingredients": ["turkey", "chicken", "meat", "pepperonni"],
-      "directions": "Preheat oven"
-    },
-    {
       "id": 1,
       "name": "Baked Hawaiian Sandwiches",
       "slug": "hawaiian_sandwiches",
@@ -221,23 +211,6 @@
       "author": "Niki Marotta",
       "ingredients": [""],
       "directions": ""
-    },
-    {
-      "id": 1,
-      "name": "Lasagna",
-      "slug": "lasagna",
-      "category": "Beef",
-      "author": "Niki Marotta",
-      "ingredients": [
-        "1 pound Lasagna Noodles",
-        "1 container Ricotta Cheese",
-        "2 Eggs, well beaten",
-        "1½-2 lbs. Ground Beef",
-        "Spaghetti Sauce",
-        "2 cup Mozzarella Cheese",
-        "Parmesan Cheese"
-      ],
-      "directions": "Preheat oven to 350°  Brown ground beef, drain, add to spaghetti sauce, set aside.  Save some spaghetti sauce for top.  Mix Ricotta with eggs.  Boil Lasagna according to package.  Slightly cover bottom of casserole with meat sauce.  Then alternate layers: Lasagna, ricotta, lasagna, meat sauce sprinkled with mozzarella and parmesan cheese.  End with top layer of sauce and cheese.  Bake, covered, for 1 hour"
     },
     {
       "id": 1,
@@ -557,7 +530,265 @@
       ],
       "directions": ""
     },
+    {
+      "id": 1,
+      "name": "Air Fryer Chicken Thighs",
+      "slug": "air_fryer_chicken_thighs",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "4 boneless skinless chicken thighs",
+        "1 tablespoon olive oil",
+        "1 tablespoon brown sugar",
+        "1 tablespoon soy sauce low sodium",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon garlic powder",
+        "½ teaspoon salt ",
+        "½ teaspoon ground black pepper"
+      ],
+      "directions": "Place chicken in single layer in air fryer. Bake at 380 for 15 minutes, turning halfway"
+    },
+    {
+      "id": 1,
+      "name": "Crock Pot Mexican Chicken",
+      "slug": "crock_pot_mexican_chicken",
+      "category": "Chicken",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 pounds chicken breasts",
+        "1 tablespoon olive oil",
+        "1/2 cup mild salsa",
+        "3 tablespoons brown sugar",
+        "4 oz. can mild diced green chilies",
+        "14.5 oz. can Rotel",
+        "1 tablespoon chili powder",
+        "1 1/2 teaspoons salt",
+        "1 tsp ground cumin",
+        "1 tsp. garlic powder",
+        "1 tsp. onion powder",
+        "1/2 tsp smoked paprika",
+        "1/2 tsp. Dry Oregano",
+        "1/2 tsp. Pepper"
+      ],
+      "directions": "Rub chicken breasts with oil and place in the bottom of your slow cooker. Add all of the remaining ingredients. Cook on high for 2-4 hours or on low for 6-7 hours or until chicken is tender enough to shred. Shred the chicken and let it cook on low for an additional 20 minutes to absorb some of the liquid/juices. Drain all excess liquid. Taste and add hot sauce to taste if desired. If serving over rice, try stirring in some enchilada sauce after you drain your chicken for some saucy Enchilada Mexican Chicken."
+    },
+    {
+      "id": 1,
+      "name": "Baked Chicken Burritos",
+      "slug": "baked_chicken_burritos",
+      "category": "Chicken",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "For Burritos: ",
+        "1 Recipe Slow Cooker Mexican Chicken",
+        "6 burrito size tortillas",
+        "1 cup shredded sharp cheddar cheese \n",
 
+        "For Sauce: ",
+        "2 tablespoons olive oil",
+        "1 tablespoon butter",
+        "3 tablespoons flour",
+        "2 cups chicken broth, warmed",
+        "1/2 teaspoon cumin",
+        "1/4-1/2 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1/2 cup sour cream",
+        "2 oz. mild chopped green chilies",
+        "1/2 cup shredded sharp cheddar cheese \n",
+
+        "Optional Toppings",
+        "Tomatoes",
+        "Avocados/guacamole",
+        "cilantro",
+        "salsa",
+        "tortilla strips or chips"
+      ],
+      "directions": "Prepare Mexican Chicken according to recipe directions. Preheat oven to 400 degrees F. Line a baking sheet with foil and add a baking rack on top. Prepare burritos by adding a heaping ½ cup filling to each tortilla, top with desired amount of cheese and roll up burrito style. Place burritos on the baking rack and brush both sides lightly with olive oil or spray with nonstick cooking spray. Cook for 18-20 minutes or until golden. Broil to desired crispiness, flip over and broil the other side until golden. \n Meanwhile, prepare sauce by melting butter in olive oil in a medium saucepan over medium heat. Whisk in flour and cook, stirring constantly for 3 minutes. Reduce heat to low then gradually whisk in chicken broth. Add spices and bring to a simmer while stirring until thickened, about 2-3 minutes. Remove from heat and stir in green chilies, cheese until melted, then sour cream. Add hot sauce to taste (optional). To serve, top burritos Cheesy Green Chili Sour Cream Sauce and desired toppings."
+    },
+    {
+      "id": 1,
+      "name": "Southwest Chicken Wrap",
+      "slug": "southwest_chicken_wrap",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "For The Chicken:",
+        ".75 lb chicken breasts, boneless and skinless",
+        "¼ cup lime juice , about one lime",
+        "½ tsp chili powder",
+        "½ tsp onion powder",
+        "1 tsp garlic powder",
+        "½ tsp smoked paprika",
+        "¼ tsp salt , *more as needed",
+        "3 tbsp olive oil",
+        "1 Tbsp chipotle pepper in adobo",
+        "",
+        "Southwest Wrap:",
+        "4 large tortillas",
+        "1 cup uncooked rice",
+        "1 small red bell pepper",
+        "½ red onion, sliced",
+        "3 garlic cloves, minced",
+        "1 tsp olive oil , to sauté the veggies",
+        "¾ cup thawed or fresh corn kernels",
+        "1 cup black beans, drained and rinsed",
+        "¼ cup cotija cheese or cheddar cheese",
+        "",
+        "Southwest Crema",
+        "⅓ cup sour cream",
+        "1½ Tbsp honey",
+        "½-1 Tbsp chipotle peppers in adobo",
+        "1 Tbsp lime juice",
+        "3 Tbsp fresh cilantro, chopped",
+        "1-2 Tbsp water, *to thin the crema a bit",
+        "¼ tsp salt"
+      ],
+      "directions": "Cut chicken into small bite-sized pieces. Marinate with chicken ingredients for 15min - 24 hrs. Combine all crema ingredients. You can use a blender to combine if you like. Saute the chicken and set aside. Saute the pepper and onion. Add in garlic. Add the chicken back in to bring it back to temperature. Make and wrap burritos. In a skillet, heat butter and brown burritos on both sides."
+    },
+    {
+      "id": 1,
+      "name": "Mini Chicken Pot Pies",
+      "slug": "mini_chicken_pot_pies",
+      "category": "Miscellaneous",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 1/2 cups frozen veggies (peas, carrots, & corn)",
+        "1 1/2 cups Cream of Chicken Soup",
+        "½ cup Sour Cream",
+        "1/2 tsp. Poultry Seasoning",
+        "Salt",
+        "Pepper",
+        "2 cups Shredded Chicken",
+        "Shredded Cheese",
+        "Crescent Rolls"
+      ],
+      "directions": "Preheat oven to 375. Thaw frozen veggies. Combine cream of chicken soup, sour cream, poulty seasoning, salt, and pepper. Add in chicken and veggies, and sprinkle in some cheese. Spray muffin pan or ramekins. Line with crescent rolls (you can pinch rolls together and cut the size crescent square you want. Use a cookie scoop to fill evenly. Cook for about 18 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Honey Soy Chicken Marinade",
+      "slug": "honey_soy_chicken_marinade",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1/2 cup soy sauce , all purpose",
+        "2/3 cup honey (sub maple syrup)",
+        "1/3 cup cider vinegar (or rice vinegar)",
+        "1/4 cup Chinese cooking wine or dry sherry (sub chicken broth)",
+        "1 tbsp sesame oil",
+        "1 1/2 tbsp garlic , finely minced",
+
+        "Serving Sauce",
+        "1/3 cup water",
+        "1 1/2 tsp cornstarch"
+      ],
+      "directions": "For the marinade, combine all ingredients. You may garnish chicken with green onions. For the serving sauce, place reserved sauce in a small saucepan. Mix cornflour and water, then add into saucepan. Simmer over medium for 5 minutes, stirring regularly, until it thickens to a syrupy consistency."
+    },
+    {
+      "id": 1,
+      "name": "Cheesy Chicken",
+      "slug": "cheesy_chicken",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 cup Mayo",
+        "½ cup Grated Parmesan",
+        "1 tbsp. Oregano",
+        "Boneless Chicken Thighs"
+      ],
+      "directions": "Preheat oven to 375° Mix all ingredients.  Dip and coat chicken.  Bake for 35-40 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Chicken Enchiladas",
+      "slug": "chicken_enchiladas",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "32 ounces Refried Beans",
+        "10 Large Flour Tortillas",
+        "1 can Condensed Cream of Chicken Soup",
+        "1 cup Sour Cream",
+        "4 cups Cooked, Cubed Chicken(about 4 chicken breasts)",
+        "3 cups Shredded Cheddar Cheese",
+        "25-30 oz. Enchilada Sauce",
+        "¼ cup Sliced Green Onions",
+        "¼ cup Sliced Ripe Olives"
+      ],
+      "directions": "Preheat oven to 350° Spread refried beans on each tortilla. Combine soup and sour cream. Stir in chicken. Spoon 1/3 - ½ cup down on the center of each tortilla. Top with 1 tbsp. of cheese. Roll up and place seam side down in greased 9 by 13 inch pan. (you need 2 pans) Pour enchilada sauce over top. Sprinkle with remaining cheese, onions, and olives. Bake uncovered for 40 minutes."
+    },
+    {
+      "id": 1,
+      "name": "Chicken Parmesan",
+      "slug": "chicken parm",
+      "category": "Chicken",
+      "subCat": "",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "Boneless, Skinless Chicken Breasts",
+        "Eggs",
+        "Panko with White Italian Bread Crumbs",
+        "½ cup Grated Parmesan",
+        "2 tbsp. Flour",
+        "Olive Oil",
+        "1/3 cup Sauce",
+        "Mozzarella Slices",
+        "Grated Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 450° or 375°spice Beat Eggs.  Dip chicken in flour then eggs and crumbs.  Let stand for 15 minutes.  Heat oil and cook chicken for about 2 minutes a side or until golden.  Place chicken in baking dish.  Top with sauce.  Drizzle with olive oil.  About 15 minutes before done top with mozzarella and parmesan cheese.  Bake for about 25 minutes at 450° and 30 minutes at 375°"
+    },
+    {
+      "id": 1,
+      "name": "Butter Chicken",
+      "slug": "butter_chicken",
+      "category": "Chicken",
+      "subCat": "",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 Eggs, beaten",
+        "1 cup Crushed Buttery Round Cracker Crumbs",
+        "½ tsp. Garlic Powder",
+        "To taste Ground Black Pepper",
+        "4  Skinless, boneless Chicken Breast Halves",
+        "¼ cup Butter, cut into pieces",
+        "Italian Seasoning",
+        "Salt"
+      ],
+      "directions": "Preheat oven to 375°  Place eggs and cracker crumbs in two separate shallow bowls.  Mix cracker crumbs with garlic powder, pepper, Italian seasoning, and salt.  Dip the chicken in the eggs, then dredge in the crumb mixture to coat.  Arrange coated chicken in a 9 by 13 inch baking dish.  Place pieces of butter around the chicken.  Bake for 30 minutes, or until chicken is no longer pink and juices run clear.  Flip once ½ way through."
+    },
+    {
+      "id": 1,
+      "name": "Honey Mustard Mozzarella Chicken",
+      "slug": "honey_mustard_mozzarella_chicken",
+      "category": "Chicken",
+      "subCat": "",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "4 Skinless, boneless Chicken Breast",
+        "¾ cup Honey",
+        "½ cup Dijon Mustard",
+        "To taste Lemon Pepper",
+        "4 slices Bacon, cut in half",
+        "1 cup Shredded Mozzarella Cheese"
+      ],
+      "directions": "Preheat oven to 375° Place the chicken breast halves in a baking dish, and drizzle evenly with honey and mustard.  Sprinkle with lemon pepper. Wrap 2 pieces of bacon around each piece of chicken. Bake the chicken for 30-35 minutes. Then add cheese and broil chicken on each side a few minutes to crisp bacon."
+    },
+    {
+      "id": 1,
+      "name": "Spicy Citrus Chicken Skewers",
+      "slug": "spicy_citrus_chicken_skewers",
+      "category": "Chicken",
+      "subCat": "",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "½ cup Honey",
+        "¼ cup Orange Juice",
+        "1 Envelope of Good Seasons Italian Salad Dressing Mix",
+        "1 tbsp. Hot Pepper Sauce",
+        "1 ¼ pound Boneless, Skinless Chicken Breasts, cut lengthwise into 20 strips"
+      ],
+      "directions": "Mix honey, juice, salad dressing mix, and hot pepper sauce in large bowl.  Reserve ¼ cup of the honey mixture. Marinate for at least 1 hour. Thread chicken onto soaked skewers. Place on rack of broiler pan. Broil 4 inches from heat 8-10 minutes or until chicken is cooked through, turning and brushing occasionally with reserved ¼ cup honey mixture."
+    },
     {
       "id": 1,
       "name": "Indian Casserole",
@@ -598,41 +829,7 @@
       ],
       "directions": "Heat oil in a large skillet over medium-high heat. Add red pepper flake and stir to coat the pepper in the oil. Add green beans and cook, stirring often until the beans are blistering and browning in areas, 5 to 7 minutes. Add garlic and salt and cook, stirring constantly until the garlic is fragrant and browning, about 30 seconds. Add water and immediately cover with a well-fitting lid or sheet of aluminum foil. Steam the green beans, covered, until they are bright green and crisp tender, 1 to 2 minutes. Serve immediately."
     },
-    {
-      "id": 1,
-      "name": "Stuffing",
-      "slug": "green_beans",
-      "category": "Sides",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "2 tablespoons extra virgin olive oil",
-        "1/2 teaspoon red pepper flake, or to taste",
-        "1.5 pounds green beans, trimmed",
-        "2 cloves garlic, minced",
-        "1/2 teaspoon coarse kosher salt",
-        "2 tablespoons water"
-      ],
-      "directions": "Heat oil in a large skillet over medium-high heat. Add red pepper flake and stir to coat the pepper in the oil. Add green beans and cook, stirring often until the beans are blistering and browning in areas, 5 to 7 minutes. Add garlic and salt and cook, stirring constantly until the garlic is fragrant and browning, about 30 seconds. Add water and immediately cover with a well-fitting lid or sheet of aluminum foil. Steam the green beans, covered, until they are bright green and crisp tender, 1 to 2 minutes. Serve immediately."
-    },
-    {
-      "id": 1,
-      "name": "Mini Chicken Pot Pies",
-      "slug": "mini_chicken_pot_pies",
-      "category": "Miscellaneous",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "1 1/2 cups frozen veggies (peas, carrots, & corn)",
-        "1 1/2 cups Cream of Chicken Soup",
-        "½ cup Sour Cream",
-        "1/2 tsp. Poultry Seasoning",
-        "Salt",
-        "Pepper",
-        "2 cups Shredded Chicken",
-        "Shredded Cheese",
-        "Crescent Rolls"
-      ],
-      "directions": "Preheat oven to 375. Thaw frozen veggies. Combine cream of chicken soup, sour cream, poulty seasoning, salt, and pepper. Add in chicken and veggies, and sprinkle in some cheese. Spray muffin pan or ramekins. Line with crescent rolls (you can pinch rolls together and cut the size crescent square you want. Use a cookie scoop to fill evenly. Cook for about 18 minutes."
-    },
+
     {
       "id": 1,
       "name": "Stuffing",
@@ -673,26 +870,6 @@
         "2 tablespoons sweet relish"
       ],
       "directions": "Combine all ingredients. Give at 1-2 hours to sit before eating."
-    },
-    {
-      "id": 1,
-      "name": "Honey Soy Chicken Marinade",
-      "slug": "honey_soy_chicken_marinade",
-      "category": "Condiments",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "1/2 cup soy sauce , all purpose",
-        "2/3 cup honey (sub maple syrup)",
-        "1/3 cup cider vinegar (or rice vinegar)",
-        "1/4 cup Chinese cooking wine or dry sherry (sub chicken broth)",
-        "1 tbsp sesame oil",
-        "1 1/2 tbsp garlic , finely minced",
-
-        "Serving Sauce",
-        "1/3 cup water",
-        "1 1/2 tsp cornstarch"
-      ],
-      "directions": "For the marinade, combine all ingredients. You may garnish chicken with green onions. For the serving sauce, place reserved sauce in a small saucepan. Mix cornflour and water, then add into saucepan. Simmer over medium for 5 minutes, stirring regularly, until it thickens to a syrupy consistency."
     },
     {
       "id": 1,
@@ -836,122 +1013,6 @@
       ],
       "directions": "Toss asparagus in ingredients. 400 for 7-10 minutes"
     },
-
-    {
-      "id": 1,
-      "name": "Air Fryer Chicken Thighs",
-      "slug": "air_fryer_chicken_thighs",
-      "category": "Chicken",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "4 boneless skinless chicken thighs",
-        "1 tablespoon olive oil",
-        "1 tablespoon brown sugar",
-        "1 tablespoon soy sauce low sodium",
-        "1 teaspoon smoked paprika",
-        "1 teaspoon garlic powder",
-        "½ teaspoon salt ",
-        "½ teaspoon ground black pepper"
-      ],
-      "directions": "Place chicken in single layer in air fryer. Bake at 380 for 15 minutes, turning halfway"
-    },
-    {
-      "id": 1,
-      "name": "Crock Pot Mexican Chicken",
-      "slug": "crock_pot_mexican_chicken",
-      "category": "Chicken",
-      "author": "Niki Marotta",
-      "ingredients": [
-        "2 pounds chicken breasts",
-        "1 tablespoon olive oil",
-        "1/2 cup mild salsa",
-        "3 tablespoons brown sugar",
-        "4 oz. can mild diced green chilies",
-        "14.5 oz. can Rotel",
-        "1 tablespoon chili powder",
-        "1 1/2 teaspoons salt",
-        "1 tsp ground cumin",
-        "1 tsp. garlic powder",
-        "1 tsp. onion powder",
-        "1/2 tsp smoked paprika",
-        "1/2 tsp. Dry Oregano",
-        "1/2 tsp. Pepper"
-      ],
-      "directions": "Rub chicken breasts with oil and place in the bottom of your slow cooker. Add all of the remaining ingredients. Cook on high for 2-4 hours or on low for 6-7 hours or until chicken is tender enough to shred. Shred the chicken and let it cook on low for an additional 20 minutes to absorb some of the liquid/juices. Drain all excess liquid. Taste and add hot sauce to taste if desired. If serving over rice, try stirring in some enchilada sauce after you drain your chicken for some saucy Enchilada Mexican Chicken."
-    },
-    {
-      "id": 1,
-      "name": "Baked Chicken Burritos",
-      "slug": "baked_chicken_burritos",
-      "category": "Chicken",
-      "author": "Niki Marotta",
-      "ingredients": [
-        "For Burritos: ",
-        "1 Recipe Slow Cooker Mexican Chicken",
-        "6 burrito size tortillas",
-        "1 cup shredded sharp cheddar cheese \n",
-
-        "For Sauce: ",
-        "2 tablespoons olive oil",
-        "1 tablespoon butter",
-        "3 tablespoons flour",
-        "2 cups chicken broth, warmed",
-        "1/2 teaspoon cumin",
-        "1/4-1/2 teaspoon salt",
-        "1/4 teaspoon pepper",
-        "1/2 cup sour cream",
-        "2 oz. mild chopped green chilies",
-        "1/2 cup shredded sharp cheddar cheese \n",
-
-        "Optional Toppings",
-        "Tomatoes",
-        "Avocados/guacamole",
-        "cilantro",
-        "salsa",
-        "tortilla strips or chips"
-      ],
-      "directions": "Prepare Mexican Chicken according to recipe directions. Preheat oven to 400 degrees F. Line a baking sheet with foil and add a baking rack on top. Prepare burritos by adding a heaping ½ cup filling to each tortilla, top with desired amount of cheese and roll up burrito style. Place burritos on the baking rack and brush both sides lightly with olive oil or spray with nonstick cooking spray. Cook for 18-20 minutes or until golden. Broil to desired crispiness, flip over and broil the other side until golden. \n Meanwhile, prepare sauce by melting butter in olive oil in a medium saucepan over medium heat. Whisk in flour and cook, stirring constantly for 3 minutes. Reduce heat to low then gradually whisk in chicken broth. Add spices and bring to a simmer while stirring until thickened, about 2-3 minutes. Remove from heat and stir in green chilies, cheese until melted, then sour cream. Add hot sauce to taste (optional). To serve, top burritos Cheesy Green Chili Sour Cream Sauce and desired toppings."
-    },
-    {
-      "id": 1,
-      "name": "Southwest Chicken Wrap",
-      "slug": "southwest_chicken_wrap",
-      "category": "Chicken",
-      "author": "Cassie Abood",
-      "ingredients": [
-        "For The Chicken:",
-        ".75 lb chicken breasts, boneless and skinless",
-        "¼ cup lime juice , about one lime",
-        "½ tsp chili powder",
-        "½ tsp onion powder",
-        "1 tsp garlic powder",
-        "½ tsp smoked paprika",
-        "¼ tsp salt , *more as needed",
-        "3 tbsp olive oil",
-        "1 Tbsp chipotle pepper in adobo",
-        "",
-        "Southwest Wrap:",
-        "4 large tortillas",
-        "1 cup uncooked rice",
-        "1 small red bell pepper",
-        "½ red onion, sliced",
-        "3 garlic cloves, minced",
-        "1 tsp olive oil , to sauté the veggies",
-        "¾ cup thawed or fresh corn kernels",
-        "1 cup black beans, drained and rinsed",
-        "¼ cup cotija cheese or cheddar cheese",
-        "",
-        "Southwest Crema",
-        "⅓ cup sour cream",
-        "1½ Tbsp honey",
-        "½-1 Tbsp chipotle peppers in adobo",
-        "1 Tbsp lime juice",
-        "3 Tbsp fresh cilantro, chopped",
-        "1-2 Tbsp water, *to thin the crema a bit",
-        "¼ tsp salt"
-      ],
-      "directions": "Cut chicken into small bite-sized pieces. Marinate with chicken ingredients for 15min - 24 hrs. Combine all crema ingredients. You can use a blender to combine if you like. Saute the chicken and set aside. Saute the pepper and onion. Add in garlic. Add the chicken back in to bring it back to temperature. Make and wrap burritos. In a skillet, heat butter and brown burritos on both sides."
-    },
     {
       "id": 1,
       "name": "Kielbasa & Veggie Sheet Pan",
@@ -1052,6 +1113,51 @@
         "Shredded Parmesan Cheese"
       ],
       "directions": "Cook pasta according to package directions. Meanwhile, in a large skillet, saute mushrooms and onions in butter for 4-5 minutes. Add wine or broth and garlic. Bring to boil; cook until liquid is reduced by half, about 5 minutes. Combine flour and water until smooth; gradually add to mushrom mixture. Bring to a boil. Reduce heat; cook and stir for 2 minutes or until thickened. Stir in cream. Bring to boil. Reduce heat and simmer for 4-5 minutes. Drain pasta. Add pasta, chicken, salt, and pepper to cream sauce. Cook 3-4 minutes or until heated through. Sprinkle with parmesan."
+    },
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "slug": "lasagna",
+      "category": "Pasta",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 pound Lasagna Noodles",
+        "1 container Ricotta Cheese",
+        "2 Eggs, well beaten",
+        "1½-2 lbs. Ground Beef",
+        "Spaghetti Sauce",
+        "2 cup Mozzarella Cheese",
+        "Parmesan Cheese"
+      ],
+      "directions": "Preheat oven to 350°  Brown ground beef, drain, add to spaghetti sauce, set aside.  Save some spaghetti sauce for top.  Mix Ricotta with eggs.  Boil Lasagna according to package.  Slightly cover bottom of casserole with meat sauce.  Then alternate layers: Lasagna, ricotta, lasagna, meat sauce sprinkled with mozzarella and parmesan cheese.  End with top layer of sauce and cheese.  Bake, covered, for 1 hour"
+    },
+    {
+      "id": 1,
+      "name": "White Cheese Chicken Lasagna",
+      "slug": "white_cheese_chicken_lasagna",
+      "category": "Pasta",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "9 Lasagna Noodles",
+        "½ cup Butter",
+        "1 Onion, chopped",
+        "1 Clove Garlic, minced",
+        "½ cup Flour",
+        "1 tsp. Salt",
+        "2 cups Chicken Broth",
+        "1 ½ cups Milk",
+        "4 cups Shredded Mozzarella Cheese, divided",
+        "1 cup Grated Parmesan Cheese, divided",
+        "1 tsp. Dried Basil",
+        "1 tsp. Dried Oregano",
+        "½ tsp. Ground Black Pepper",
+        "2 cups Ricotta Cheese",
+        "2 cups Cooked Chicken Meat, cubed",
+        "2 packages Frozen Chopped Spinach, thawed and drained",
+        "1 tbsp. Chopped Fresh Parsley",
+        "¼ cup Grated Parmesan Cheese (for topping)"
+      ],
+      "directions": "Preheat oven to 350° Cook noodles to package directions. Melt the butter in a large saucepan. Add onion and garlic. Stir in the flour and salt, and simmer until bubbly.  Mix in the broth and milk, and boil, stirring constantly, for 1 minute. Stir in 2 cups of mozzarella cheese and ¼ cup Parmesan cheese.  Season with the basil, oregano, and ground black pepper.  Remove from heat, and set aside.  Spread 1/3 of the sauce mixture in the bottom of a 9 by 13 inch baking dish.  Layer with 1/3 of the noodles, the ricotta, and the chicken.  Arrange 3 lasagna noodles over the chicken and layer with 1/3 of the sauce mixture, spinach, remaining 2 cups mozzarella, and 1/2 cup Parmesan. Arrange remaining noodles over cheese and spread remaining sauce evenly over noodles. Sprinkle with parsley and remaining 1/4 cup Parmesan. Bake 35-40 minutes."
     },
     {
       "id": 1,
