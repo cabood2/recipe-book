@@ -1690,6 +1690,30 @@
     },
     {
       "id": 1,
+      "name": "Ice Cream Cake",
+      "slug": "ice_cream_cake",
+      "category": "Desserts",
+      "subCat": "Cakes",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 ½ cups Crushed Oreos",
+        "½ cup Butter, melted",
+        "½ cup Sugar",
+        "¼-½ gallon Chocolate Ice Cream, slightly softened",
+        "¼-½ gallon Vanilla Ice Cream, slightly softened",
+        "8 ounces Cool Whip",
+        "",
+        "Hot Fudge Sauce:",
+        "2 cups Powdered Sugar",
+        "2/3 cup Semisweet Chocolate Chips",
+        "12 ounces Evaporated Milk",
+        "1 stick Butter",
+        "1 tsp. Vanilla"
+      ],
+      "directions": "Combine 2 cups Oreos with butter and sugar. Press into 13 by 9 inch pan.  Freeze 15 minutes.  Spread layer of ice cream on top and freeze for 3 hours. Combine powdered sugar, chocolate chips, evaporated milk, and butter in saucepan and bring to a boil for 8 minutes.  Remove from heat and stir in vanilla.  Cool to room temperature.  Spoon sauce on ice cream and freeze until firm.  Add other layer of ice cream and freeze. Spread cool whip on top and sprinkle with oreo crumbs.  Freeze for 3 hours."
+    },
+    {
+      "id": 1,
       "name": "Chicken Gnocchi Soup",
       "slug": "chicken_gnocchi_soup",
       "category": "Soups & Stews",
