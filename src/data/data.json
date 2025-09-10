@@ -1208,6 +1208,34 @@
     },
     {
       "id": 1,
+      "name": "Pumpkin Cookies",
+      "slug": "pumpkin_cookies",
+      "category": "Desserts",
+      "subCat": "Cookies",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2 cups Butter, softened",
+        "2 cups Sugar",
+        "2 tsp. Baking Powder",
+        "2 tsp. Baking Soda",
+        "1 tsp. Salt",
+        "1 tsp. Ground Cinnamon",
+        "1 tsp. Ground Nutmeg",
+        "2 Eggs",
+        "2 tsp. Vanilla",
+        "15 ounces Pumpkin",
+        "4 cups Flour",
+        "",
+        "Cream Cheese Frosting:",
+        "½ cup Butter, softened",
+        "8 ounces Cream Cheese, softened",
+        "3 ¾ cup  Powdered Sugar",
+        "1 tsp. Vanilla"
+      ],
+      "directions": "Preheat oven to 350°  In a large bowl, beat butter until light and fluffy.  Add granulated sugar, baking powder, baking soda, salt, cinnamon, and nutmeg.  Add eggs and vanilla; beat until combined.  Beat in pumpkin.  Add flour slowly until combined.  Dough will be very wet.  Drop dough by the tbsp. onto parchment lined sheets.  Bake 10 to 12 minutes or until tops are set.  Transfer cookies to wire rack; let cool.  For the frosting, beat all ingredients until soft and whipped."
+    },
+    {
+      "id": 1,
       "name": "Broccoli Casserole",
       "slug": "broccoli_casserole",
       "category": "Sides",
@@ -1734,6 +1762,26 @@
         "1 cup fresh spinach, roughly chopped"
       ],
       "directions": "Heat olive oil in a large pot over medium heat. Add celery, onions, garlic, and carrots and saute for 2-3 minutes until onions are translucent. Add chicken, chicken broth, salt, pepper, and thyme, bring to a boil, then gently stir in gnocchi. Boil for 3-4 minutes longer before reducing heat to a simmer and cooking for 10 minutes. Stir in half and half, heavy whipping cream, and spinach and cook another 1-2 minutes until spinach is tender. Taste, add salt and pepper if needed, and serve. "
+    },
+    {
+      "id": 1,
+      "name": "Tomato Soup",
+      "slug": "tomato_soup",
+      "category": "Soups & Stews",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 10 3/4 oz can tomato soup",
+        "10 3/4 oz milk or heavy cream",
+        "1/2 tsp garlic powder",
+        "1/2 tsp onion powder",
+        "1 tsp Italian seasoning",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "Parmesan cheese",
+        "Fresh basil"
+      ],
+      "directions": "In a saucepan, combine tomato soup and 1 can full of milk of choice or heavy cream.Add garlic powder, onion powder, Italian seasoning, cayenne pepper, salt, and black pepper and let sit on medium-low heat for about 10 minutes. Pour into bowls and top with parmesan cheese and fresh basil."
     }
   ]
 }
