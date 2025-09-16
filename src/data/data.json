@@ -1368,6 +1368,21 @@
       ],
       "directions": "Preheat oven to 400 and cover roasting pan with parchment paper. Cut all ingredients and spead out on pan. Drizzle with olive oil and toss with spices. Bake for 30-45 minutes. Add cheese for garnish."
     },
+    {
+      "id": 1,
+      "name": "Ribs",
+      "slug": "ribs",
+      "category": "Pork",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "3 tbsp. Brown Sugar",
+        "1 1/2 tbsp. Paprika",
+        "1 1/2 tbsp. Salt",
+        "1 1/2 tbsp. Pepper",
+        "1 tsp. Garlic Powder"
+      ],
+      "directions": "Instapot: Use the trivet. 1 cup of water, 1/2 cup BBQ. Cook 28 min on high pressure, natural release for 25 min."
+    },
 
     {
       "id": 1,
