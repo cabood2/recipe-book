@@ -665,6 +665,23 @@
     },
     {
       "id": 1,
+      "name": "Crockpot Creamy Ranch Chicken Sandwiches",
+      "slug": "crockpot_creamy_ranch_chicken_sandwiches",
+      "category": "Chicken",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "2-3 boneless skinless chicken breasts",
+        "8 ounces cream cheese",
+        "1 packet Hidden Valley Ranch seasoning",
+        "1 cup Cheddar Cheese",
+        "Salt and Pepper, to taste",
+        "Green Onions, optional",
+        "Bacon Bits, optional"
+      ],
+      "directions": "Place all ingredients in a crock pot, except green onions and bacon bits. Cook on high for 3 hours and shred."
+    },
+    {
+      "id": 1,
       "name": "Crock Pot Mexican Chicken",
       "slug": "crock_pot_mexican_chicken",
       "category": "Chicken",
