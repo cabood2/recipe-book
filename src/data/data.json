@@ -1225,6 +1225,67 @@
     },
     {
       "id": 1,
+      "name": "M & M Cookies",
+      "slug": "m&M_cookies",
+      "category": "Desserts",
+      "subCat": "Cookies",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 cup Brown Sugar, packed",
+        "½ cup White Sugar",
+        "½ cup Butter",
+        "½ cup Crisco",
+        "2 Eggs",
+        "1 ½ tsp. Vanilla Extract",
+        "2 ½ cups Flour",
+        "1 tsp. Baking Soda",
+        "1 tsp. Salt",
+        "1 ½ cups M&M’s"
+      ],
+      "directions": "Preheat oven to 350° In a large bowl, mix sugar, eggs, butter, Crisco, and vanilla thoroughly.  Add flour, salt, and baking soda to creamed mixture.  Blend well.  All ¾ cup of M ‘n M’s.  Drop dough by teaspoonful onto cookie sheet.  Slightly push a few candies on top of each dough ball with remaining candies.  Bake for 9-11 minutes, to your liking. Editor’s Note: Refrigerate dough 5 minutes before rolling."
+    },
+    {
+      "id": 1,
+      "name": "Hershey's Double Chocolate Cookies",
+      "slug": "hershey's_double_chocolate_cookies",
+      "category": "Desserts",
+      "subCat": "Cookies",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 cup Butter, softened",
+        "1 ½ cups Sugar",
+        "2 Eggs",
+        "2 tsp. Vanilla",
+        "2 cups Flour",
+        "2/3 cup Hershey’s Cocoa",
+        "¾ tsp. Baking Soda",
+        "¼ tsp. Salt",
+        "2 cups Semi-sweet Chocolate Chips"
+      ],
+      "directions": "Preheat oven to 350° In large bowl beat butter, sugar, eggs, and vanilla.  Stir together flour, cocoa, baking soda, and salt; add to butter mixture.  Stir in chocolate chips and nuts.  Drop by rounded tsp.  Bake 8-10 minutes. "
+    },
+    {
+      "id": 1,
+      "name": "Chocolate Chip Cookies",
+      "slug": "chocolate_chip_cookies",
+      "category": "Desserts",
+      "subCat": "Cookies",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "2 ¼ cups Flour",
+        "1 tsp. Baking Soda",
+        "1 tsp. Salt",
+        "1 cup Butter, softened",
+        "¾ cup Sugar",
+        "¾ cup Brown Sugar, firmly packed",
+        "1 tsp. Vanilla Extract",
+        "2 Eggs",
+        "2 cups Semi-sweet Chocolate Chips"
+      ],
+      "directions": "Preheat oven to 350° In small bowl, combine flour, baking soda, and salt.  Set aside.  In a large bowl, combine butter, sugar, brown sugar, and vanilla extract.  Beat until creamy.  Beat in eggs.  Gradually add flour mixture.  Stir in chocolate chips and nuts.  Drop onto an ungreased cookie sheets.  Bake 9-11 minutes."
+    },
+    {
+      "id": 1,
       "name": "Pumpkin Cookies",
       "slug": "pumpkin_cookies",
       "category": "Desserts",
