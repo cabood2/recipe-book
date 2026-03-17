@@ -1140,6 +1140,22 @@
       ],
       "directions": "Heat oil in a large skillet over medium-high heat. Add red pepper flake and stir to coat the pepper in the oil. Add green beans and cook, stirring often until the beans are blistering and browning in areas, 5 to 7 minutes. Add garlic and salt and cook, stirring constantly until the garlic is fragrant and browning, about 30 seconds. Add water and immediately cover with a well-fitting lid or sheet of aluminum foil. Steam the green beans, covered, until they are bright green and crisp tender, 1 to 2 minutes. Serve immediately."
     },
+    {
+      "id": 1,
+      "name": "Honey Balsamic Brussel Sprouts",
+      "slug": "honey_balsamic_brussel_sprouts",
+      "category": "Sides",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "1 lb Brussels sprouts trimmed and halved",
+        "2 tbsp olive oil",
+        "1/2 tsp salt or to taste",
+        "1/4 tsp black pepper freshly ground",
+        "2 tbsp balsamic vinegar",
+        "1 tbsp honey"
+      ],
+      "directions": "Preheat oven to 425°F. Toss the halved brussel sprouts with olive oil, salt, and pepper. Spread the Brussels sprouts in a single layer on a large baking sheet, ensuring they are not overcrowded. Roast for 20-25 minutes, tossing halfway through, until tender and the outer leaves are crispy and caramelized. Whisk together the balsamic vinegar and honey in a small bowl. Remove the sprouts from the oven, drizzle with the honey balsamic glaze, and toss to combine. Serve immediately. You can also air fry them at 375 for 10 minutes."
+    },
 
     {
       "id": 1,
