@@ -1487,6 +1487,29 @@
     },
     {
       "id": 1,
+      "name": "Creamy Tomato Tortellini",
+      "slug": "creamy_tomato_tortellini",
+      "category": "Pasta",
+      "author": "Cassie Abood",
+      "ingredients": [
+        "6 Roma Tomatoes, halved",
+        "2-3 tbsp Olive Oil",
+        "1 tsp. Garlic Powder",
+        "2 tsp. Oregano",
+        "2 tsp. Basil",
+        "1 tsp. Black Pepper",
+        "Salt",
+        "2 cups Chicken Broth",
+        "1 lb. Tortellini",
+        "1 cup Heavy Cream",
+        "1/2 cup Grated Parmesan",
+        "1 ball Burrata or Mozzarella Cheese",
+        "Basil, for serving"
+      ],
+      "directions": "Heat olive oil in skillet. Add the roma tomatoes, cut side down. Cook 7-8 minutes, lid on, until the tomatoes soften and start to blister. Remove the skins with a fork. Mash gently with a spoon. Sprinkle with seasonings. Then, pour in the chicken broth and heavy cream. Bring to gentle simmer. Add tortellini and cook according to package directions. Stir in parmesan until creamy and well combined. Remove from heat and top with burrata. If it's too saucy, let it sit a little longer."
+    },
+    {
+      "id": 1,
       "name": "Lasagna",
       "slug": "lasagna",
       "category": "Pasta",
