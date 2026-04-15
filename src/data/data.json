@@ -154,6 +154,7 @@
         "Black Olives",
         "1 jar Jalapenos"
       ],
+      "tags": ["gluten_free"],
       "directions": "Layer in this order."
     },
     {
@@ -197,6 +198,7 @@
         "8 oz. Cream Cheese",
         "Canned Fruit Syrup"
       ],
+      "tags": ["under_30_min"],
       "directions": ""
     },
     {
@@ -433,6 +435,7 @@
         "To taste Salt",
         "To taste Ground Black Pepper"
       ],
+      "tags": ["under_30_min"],
       "directions": "In a medium skillet over medium heat, brown the ground beef, onion, and green pepper; drain off liquids.  Stir in the garlic powder, mustard, ketchup, and brown sugar; mix thoroughly.  Reduce heat, and simmer for 30 minutes.  Season with salt and pepper."
     },
     {
@@ -679,6 +682,7 @@
         "½ teaspoon salt ",
         "½ teaspoon ground black pepper"
       ],
+      "tags": ["gluten_free"],
       "directions": "Place chicken in single layer in air fryer. Bake at 380 for 15 minutes, turning halfway"
     },
     {
