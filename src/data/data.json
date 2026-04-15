@@ -15,67 +15,80 @@
     {
       "id": 3,
       "name": "Breads",
-      "slug": "breads"
+      "slug": "breads",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 4,
       "name": "Breakfast",
-      "slug": "breakfast"
+      "slug": "breakfast",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 5,
       "name": "Chicken",
-      "slug": "chicken"
+      "slug": "chicken",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 6,
       "name": "Condiments",
-      "slug": "condiments"
+      "slug": "condiments",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 7,
       "name": "Desserts",
-      "slug": "desserts"
+      "slug": "desserts",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 8,
       "name": "Ham",
-      "slug": "ham"
+      "slug": "ham",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 9,
       "name": "Miscellaneous",
-      "slug": "misc"
+      "slug": "misc",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 10,
       "name": "Pasta",
-      "slug": "pasta"
+      "slug": "pasta",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 11,
       "name": "Pork",
-      "slug": "pork"
+      "slug": "pork",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 12,
       "name": "Sides",
-      "slug": "sides"
+      "slug": "sides",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 13,
       "name": "Soups & Stews",
-      "slug": "soups_and_stews"
+      "slug": "soups_and_stews",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 14,
       "name": "Turkey",
-      "slug": "turkey"
+      "slug": "turkey",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 15,
       "name": "Fish",
-      "slug": "fish"
+      "slug": "fish",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     }
   ],
   "dessertCategories": [

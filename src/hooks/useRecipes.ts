@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Category } from "../components/CategoryGrid";
 import useRecipeStore from "../state-management/store";
 import db from "../data/data.json";
 
@@ -40,6 +39,27 @@ const useRecipes = () => {
       results = results.filter((recipe) =>
         (recipe as any).tags?.includes(recipeQuery.selectedFilter)
       );
+    }
+
+    if (recipeQuery.searchText) {
+      const normalizedSearch = recipeQuery.searchText.trim().toLowerCase();
+
+      results = results.filter((recipe) => {
+        const searchableText = [
+          recipe.name,
+          recipe.author,
+          recipe.category,
+          recipe.subCat,
+          recipe.ingredients.join(" "),
+          recipe.directions,
+          recipe.tags?.join(" "),
+        ]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
+
+        return searchableText.includes(normalizedSearch);
+      });
     }
 
     setRecipes(results);

@@ -14,7 +14,7 @@ interface RecipeQueryStore {
   setCategory: (category: Category) => void;
   setSubCat: (subCat: Category) => void;
   setRecipe: (recipe: Recipe) => void;
-  setSearchText: (searchText: string) => void;
+  setSearchText: (searchText: string | null) => void;
   setSelectedFilter: (filter: string | null) => void; // ADD THIS
 }
 
@@ -26,7 +26,16 @@ const useRecipeStore = create<RecipeQueryStore>((set) => ({
     set((store) => ({ recipeQuery: { ...store.recipeQuery, subCat } })),
   setRecipe: (recipe) =>
     set((store) => ({ recipeQuery: { ...store.recipeQuery, recipe } })),
-  setSearchText: (searchText) => set(() => ({ recipeQuery: { searchText } })),
+  setSearchText: (searchText) =>
+    set((store) => ({
+      recipeQuery: {
+        ...store.recipeQuery,
+        category: undefined,
+        subCat: undefined,
+        recipe: undefined,
+        searchText,
+      },
+    })),
   // ADD THIS
   setSelectedFilter: (selectedFilter) =>
     set((store) => ({ recipeQuery: { ...store.recipeQuery, selectedFilter } })),

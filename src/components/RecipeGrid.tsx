@@ -1,29 +1,30 @@
 import {
-  Box,
-  Card,
-  Grid,
   GridItem,
-  HStack,
-  Hide,
   SimpleGrid,
-  Spinner,
   Text,
   useMediaQuery,
 } from "@chakra-ui/react";
-import React from "react";
-import useRecipes, { Recipe } from "../hooks/useRecipes";
+import useRecipes from "../hooks/useRecipes";
 
-import { Category } from "./CategoryGrid";
 import useRecipeStore from "../state-management/store";
 import RecipeCard from "./RecipeCard";
 import RecipeCover from "./RecipeCover";
 
 const RecipeGrid = () => {
   const { recipes } = useRecipes();
+  const searchText = useRecipeStore((s) => s.recipeQuery.searchText);
 
   const [isLargerThan1000] = useMediaQuery("(min-width: 1000px)");
 
-  // if (recipes.length === 0) throw Error;
+  if (recipes.length === 0) {
+    return (
+      <Text padding={10} fontSize="xl">
+        {searchText
+          ? `No recipes matched "${searchText}".`
+          : "No recipes matched your current filters."}
+      </Text>
+    );
+  }
 
   return (
     <>
