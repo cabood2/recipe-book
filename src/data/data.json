@@ -4,12 +4,13 @@
       "id": 1,
       "name": "Appetizers",
       "slug": "appetizers",
-      "tags": ["under_30_min"]
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 2,
       "name": "Beef",
-      "slug": "beef"
+      "slug": "beef",
+      "tags": ["under_30_min", "gluten_free", "high_protein"]
     },
     {
       "id": 3,
