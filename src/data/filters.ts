@@ -8,13 +8,13 @@ export default [
     icon: "<TimeIcon/>",
   },
   {
-    id: 1,
+    id: 2,
     name: "Under 30 Min",
     slug: "under_30_min",
     icon: "TimeIcon",
   },
   {
-    id: 1,
+    id: 3,
     name: "High-Protein",
     slug: "high_protein",
     icon: "TimeIcon",

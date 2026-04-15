@@ -1,18 +1,9 @@
-import {
-  Button,
-  HStack,
-  List,
-  ListItem,
-  Icon,
-  background,
-} from "@chakra-ui/react";
+import { Button, HStack, List, ListItem, Icon } from "@chakra-ui/react";
 import filters from "../data/filters";
 import { FaClock, FaBreadSlice, FaDrumstickBite } from "react-icons/fa";
 import { IconType } from "react-icons";
-import { useState } from "react";
 import React from "react";
-
-//const [filter, setFilter] = useState();
+import useRecipeStore from "../state-management/store";
 
 const iconMap: { [key: string]: IconType } = {
   gluten_free: FaBreadSlice,
@@ -21,25 +12,24 @@ const iconMap: { [key: string]: IconType } = {
 };
 
 const FilterList = () => {
+  const selectedFilter = useRecipeStore((s) => s.recipeQuery.selectedFilter);
+  const setSelectedFilter = useRecipeStore((s) => s.setSelectedFilter);
+
   return (
     <List>
       {filters.map((filter) => (
-        <ListItem paddingY={1} key={filter.id} onMouseEnter={() => "gray"}>
+        <ListItem paddingY={1} key={filter.id}>
           <HStack paddingLeft={2} fontSize={25}>
-            <Icon
-              key={filter.id}
-              as={iconMap[filter.slug]}
-              color="black"
-              marginRight={1}
-            ></Icon>
-
+            <Icon as={iconMap[filter.slug]} color="black" marginRight={1} />
             <Button
-              // onClick={() => onSelectCategory(filter)}
+              onClick={() =>
+                // Clicking the active filter again deselects it
+                setSelectedFilter(
+                  selectedFilter === filter.slug ? null : filter.slug
+                )
+              }
               fontSize="lg"
-              // fontWeight={
-              //   filter.id === selectedCategory?.id ? "bold" : "normal"
-              // }
-
+              fontWeight={selectedFilter === filter.slug ? "bold" : "normal"}
               variant="link"
               whiteSpace="normal"
               textAlign="left"
