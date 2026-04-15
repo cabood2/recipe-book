@@ -10,22 +10,22 @@ const useCategories = () => {
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
-  // useEffect(() => {
-  //   axios
-  //     .get<Category[]>(
-  //       "../data/categories.json",
-  //       //  "https://my-json-server.typicode.com/cabood2/recipe-book/categories",
-  //       {
-  //         params: {
-  //           slug: recipeQuery.searchText,
-  //         },
-  //       }
-  //     )
-  //     .then((res) => setCategories(res.data));
-  // }, [recipeQuery]);
   useEffect(() => {
-    setCategories(db.categories);
-  });
+    if (recipeQuery.selectedFilter) {
+      // Only show categories that have at least one recipe matching the filter
+      const matchingRecipes = db.recipes.filter((recipe) =>
+        (recipe as any).tags?.includes(recipeQuery.selectedFilter)
+      );
+      const matchingCategoryNames = new Set(
+        matchingRecipes.map((r) => r.category)
+      );
+      setCategories(
+        db.categories.filter((c) => matchingCategoryNames.has(c.name))
+      );
+    } else {
+      setCategories(db.categories);
+    }
+  }, [recipeQuery]); // ADD dependency array
 
   return { categories, error, isLoading };
 };

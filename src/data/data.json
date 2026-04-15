@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "Appetizers",
-      "slug": "appetizers"
+      "slug": "appetizers",
+      "tags": ["under_30_min"]
     },
     {
       "id": 2,
