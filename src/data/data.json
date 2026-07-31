@@ -708,6 +708,21 @@
     },
     {
       "id": 1,
+      "name": "Pineapple Teriyaki Chicken",
+      "slug": "pineapple_teriyaki_chicken",
+      "category": "Chicken",
+      "author": "Niki Marotta",
+      "ingredients": [
+        "1 can Sliced Pineapple",
+        "½ cup Teriyaki Sauce",
+        "4 Boneless, Skinless Chicken",
+        "4 Slices of Provolone Cheese"
+      ],
+      "tags": ["gluten_free"],
+      "directions": "Drain pineapple. Mix juice and teriyaki sauce. Marinate chicken.  Save some marinade to baste while grilling.  Grill or bake chicken. Grill pineapple slices and place on each chicken. Top with slice of cheese until melted."
+    },
+    {
+      "id": 1,
       "name": "Crockpot Creamy Ranch Chicken Sandwiches",
       "slug": "crockpot_creamy_ranch_chicken_sandwiches",
       "category": "Chicken",
